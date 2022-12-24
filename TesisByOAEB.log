@@ -1,0 +1,2147 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.15)  24 DEC 2022 13:05
+entering extended mode
+**./TesisByOAEB.tex
+(TesisByOAEB.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/06/02 3.60 The Babel package
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/06/02 3.60 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen140
+))
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks20
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks21
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\kpfonts.sty
+Package: kpfonts  2010/08/20 v3.31
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 78.
+)
+\c@mv@rm=\count271
+\c@mv@boldrm=\count272
+\c@mv@sf=\count273
+\c@mv@boldsf=\count274
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `rm'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldrm'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sf'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldsf'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 355.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `rm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/m/n on input line 357.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldrm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 358.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sf'
+(Font)                  OT1/jkp/m/n --> OT1/jkpss/m/n on input line 359.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldsf'
+(Font)                  OT1/jkp/m/n --> OT1/jkpss/b/n on input line 360.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 364.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 365.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `rm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/m/n on input line 366.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `boldrm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 367.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sf'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/m/n on input line 368.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `boldsf'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 369.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `rm'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldrm'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `sf'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldsf'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/jkp/b/n --> OT1/jkp/b/n on input line 379.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `rm'
+(Font)                  OT1/jkp/b/n --> OT1/jkp/b/n on input line 381.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldrm'
+(Font)                  OT1/jkp/b/n --> OT1/jkp/b/n on input line 382.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `sf'
+(Font)                  OT1/jkp/b/n --> OT1/jkpss/b/n on input line 383.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldsf'
+(Font)                  OT1/jkp/b/n --> OT1/jkpss/b/n on input line 384.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `rm'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldrm'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `sf'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldsf'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/jkp/m/it --> OT1/jkp/b/it on input line 391.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `rm'
+(Font)                  OT1/jkp/m/it --> OT1/jkp/m/it on input line 393.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldrm'
+(Font)                  OT1/jkp/m/it --> OT1/jkp/b/it on input line 394.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `sf'
+(Font)                  OT1/jkp/m/it --> OT1/jkpss/m/it on input line 395.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldsf'
+(Font)                  OT1/jkp/m/it --> OT1/jkpss/b/it on input line 396.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `rm'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldrm'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `sf'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldsf'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/b/n on input line 402.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `rm'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/m/n on input line 403.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldrm'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/b/n on input line 404.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `sf'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/m/n on input line 405.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldsf'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/b/n on input line 406.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `rm'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldrm'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `sf'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldsf'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/b/n on input line 411.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `rm'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/m/n on input line 412.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldrm'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/b/n on input line 413.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `sf'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/m/n on input line 414.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldsf'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/b/n on input line 415.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `rm'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldrm'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sf'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldsf'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/jkp/m/it --> OML/jkp/bx/it on input line 424.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `rm'
+(Font)                  OML/jkp/m/it --> OML/jkp/m/it on input line 426.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldrm'
+(Font)                  OML/jkp/m/it --> OML/jkp/bx/it on input line 427.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sf'
+(Font)                  OML/jkp/m/it --> OML/jkpss/m/it on input line 428.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldsf'
+(Font)                  OML/jkp/m/it --> OML/jkpss/bx/it on input line 429.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/jkpmia/m/it --> U/jkpmia/bx/it on input line 439.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `rm'
+(Font)                  U/jkpmia/m/it --> U/jkpmia/m/it on input line 441.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `boldrm'
+(Font)                  U/jkpmia/m/it --> U/jkpmia/bx/it on input line 442.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `sf'
+(Font)                  U/jkpmia/m/it --> U/jkpssmia/m/it on input line 443.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `boldsf'
+(Font)                  U/jkpmia/m/it --> U/jkpssmia/bx/it on input line 444.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 447.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `rm'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldrm'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sf'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldsf'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/bx/n on input line 457.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `rm'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/m/n on input line 459.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldrm'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/bx/n on input line 460.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sf'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/m/n on input line 461.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldsf'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/bx/n on input line 462.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/jkpsya/m/n on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/jkpsya/m/n on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `rm'
+(Font)                  U/msa/m/n --> U/jkpsya/m/n on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldrm'
+(Font)                  U/msa/m/n --> U/jkpsya/m/n on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `sf'
+(Font)                  U/msa/m/n --> U/jkpsya/m/n on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldsf'
+(Font)                  U/msa/m/n --> U/jkpsya/m/n on input line 475.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/bx/n on input line 476.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `rm'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/m/n on input line 477.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldrm'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/bx/n on input line 478.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `sf'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/m/n on input line 479.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldsf'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/bx/n on input line 480.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/jkpsyb/m/n on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/jkpsyb/m/n on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `rm'
+(Font)                  U/msb/m/n --> U/jkpsyb/m/n on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldrm'
+(Font)                  U/msb/m/n --> U/jkpsyb/m/n on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `sf'
+(Font)                  U/msb/m/n --> U/jkpsyb/m/n on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldsf'
+(Font)                  U/msb/m/n --> U/jkpsyb/m/n on input line 528.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/jkpsyb/m/n --> U/jkpsyb/bx/n on input line 529.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `rm'
+(Font)                  U/jkpsyb/m/n --> U/jkpsyb/m/n on input line 530.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldrm'
+(Font)                  U/jkpsyb/m/n --> U/jkpsyb/bx/n on input line 531.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `sf'
+(Font)                  U/jkpsyb/m/n --> U/jkpsssyb/m/n on input line 532.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldsf'
+(Font)                  U/jkpsyb/m/n --> U/jkpsssyb/bx/n on input line 533.
+\symsymbolsC=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/bx/n on input line 549.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `rm'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/m/n on input line 551.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `boldrm'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/bx/n on input line 552.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `sf'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/m/n on input line 553.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `boldsf'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/bx/n on input line 554.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `bold'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/bx/n on input line 583.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `rm'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/m/n on input line 585.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `boldrm'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/bx/n on input line 586.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `sf'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/m/n on input line 587.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `boldsf'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/bx/n on input line 588.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `rm'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldrm'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `sf'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldsf'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/jkp/m/n --> OMX/jkp/bx/n on input line 599.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `rm'
+(Font)                  OMX/jkp/m/n --> OMX/jkp/m/n on input line 601.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldrm'
+(Font)                  OMX/jkp/m/n --> OMX/jkp/bx/n on input line 602.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `sf'
+(Font)                  OMX/jkp/m/n --> OMX/jkpss/m/n on input line 603.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldsf'
+(Font)                  OMX/jkp/m/n --> OMX/jkpss/bx/n on input line 604.
+\symlargesymbolsA=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 615.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `rm'
+(Font)                  U/jkpexa/m/n --> U/jkpexa/m/n on input line 617.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `boldrm'
+
+(Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 618.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `sf'
+(Font)                  U/jkpexa/m/n --> U/jkpexa/m/n on input line 619.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `boldsf'
+
+(Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 620.
+LaTeX Info: Redefining \not on input line 1580.
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count275
+\lst@gtempboxa=\box52
+\lst@token=\toks25
+\lst@length=\count276
+\lst@currlwidth=\dimen151
+\lst@column=\count277
+\lst@pos=\count278
+\lst@lostspace=\dimen152
+\lst@width=\dimen153
+\lst@newlines=\count279
+\lst@lineno=\count280
+\lst@maxwidth=\dimen154
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count281
+\lst@skipnumbers=\count282
+\lst@framebox=\box53
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count283
+\LTcapwidth=\dimen155
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count284
+\LT@rows=\count285
+\c@LT@tables=\count286
+\c@LT@chunks=\count287
+\LT@p@ftn=\toks26
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks27
+\float@box=\box59
+\@float@everytoks=\toks28
+\@floatcapt=\box60
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-06-09 v3.0.12 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen156
+\l__siunitx_angle_marker_box=\box61
+\l__siunitx_angle_unit_box=\box62
+\l__siunitx_compound_count_int=\count289
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count290
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count291
+\l__siunitx_number_min_decimal_int=\count292
+\l__siunitx_number_min_integer_int=\count293
+\l__siunitx_number_round_precision_int=\count294
+\l__siunitx_number_group_minimum_int=\count295
+ (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+\l__siunitx_table_tmp_box=\box63
+\l__siunitx_table_tmp_dim=\dimen157
+\l__siunitx_table_column_width_dim=\dimen158
+\l__siunitx_table_integer_box=\box64
+\l__siunitx_table_decimal_box=\box65
+\l__siunitx_table_before_box=\box66
+\l__siunitx_table_after_box=\box67
+\l__siunitx_table_before_dim=\dimen159
+\l__siunitx_table_carry_dim=\dimen160
+\l__siunitx_unit_tmp_int=\count296
+\l__siunitx_unit_position_int=\count297
+\l__siunitx_unit_total_int=\count298
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-06-01 L3 programming layer (loader) 
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box68
+))
+Package: l3keys2e 2021-06-01 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box69
+\extrarowheight=\dimen162
+\NC@list=\toks29
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box70
+))
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count300
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box71
+\rot@mess@toks=\toks31
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen163
+\calc@Bdimen=\dimen164
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count303
+\calc@Cskip=\skip62
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen165
+\ESO@tempdimb=\dimen166
+)
+\AM@pagewidth=\dimen167
+\AM@pageheight=\dimen168
+\AM@fboxrule=\dimen169
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count304
+\AM@pagebox=\box72
+\AM@global@opts=\toks32
+\AM@pagecnt=\count305
+\AM@toc@title=\toks33
+\c@AM@survey=\count306
+\AM@templatesizebox=\box73
+) (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip63
+\multirow@cntb=\count307
+\multirow@dima=\skip64
+\bigstrutjot=\dimen170
+) (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count308
+\mult@box=\box74
+\multicol@leftmargin=\dimen171
+\c@unbalance=\count309
+\c@collectmore=\count310
+\doublecol@number=\count311
+\multicoltolerance=\count312
+\multicolpretolerance=\count313
+\full@width=\dimen172
+\page@free=\dimen173
+\premulticols=\dimen174
+\postmulticols=\dimen175
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box75
+\last@line=\box76
+\maxbalancingoverflow=\dimen176
+\mult@rightbox=\box77
+\mult@grightbox=\box78
+\mult@gfirstbox=\box79
+\mult@firstbox=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\c@minrows=\count314
+\c@columnbadness=\count315
+\c@finalcolumnbadness=\count316
+\last@try=\dimen177
+\multicolovershoot=\dimen178
+\multicolundershoot=\dimen179
+\mult@nat@firstbox=\box118
+\colbreak@box=\box119
+\mc@col@check@num=\count317
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip67
+\subfigcapskip=\skip68
+\subfigcaptopadj=\dimen180
+\subfigbottomskip=\skip69
+\subfigcapmargin=\dimen181
+\subfiglabelskip=\skip70
+\c@subfigure=\count318
+\c@lofdepth=\count319
+\c@subtable=\count320
+\c@lotdepth=\count321
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg
+)
+\subfig@top=\skip71
+\subfig@bottom=\skip72
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip73
+\f@nch@O@elh=\skip74
+\f@nch@O@erh=\skip75
+\f@nch@O@olh=\skip76
+\f@nch@O@orh=\skip77
+\f@nch@O@elf=\skip78
+\f@nch@O@erf=\skip79
+\f@nch@O@olf=\skip80
+\f@nch@O@orf=\skip81
+)
+LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 4
+4.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ot1jkp.fd
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+(TesisByOAEB.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+
+LaTeX Warning: Label `tif17' multiply defined.
+
+
+LaTeX Warning: Label `tif19' multiply defined.
+
+
+LaTeX Warning: Label `tif16' multiply defined.
+
+
+LaTeX Warning: Label `tif59' multiply defined.
+
+
+LaTeX Warning: Label `sub@tif59' multiply defined.
+
+
+LaTeX Warning: Label `tif65' multiply defined.
+
+
+LaTeX Warning: Label `sub@tif65' multiply defined.
+
+
+LaTeX Warning: Label `tif125' multiply defined.
+
+)
+\openout1 = `TesisByOAEB.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 44.
+LaTeX Font Info:    Trying to load font information for OML+jkp on input line 4
+4.
+ (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\omljkp.fd
+File: omljkp.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 44.
+LaTeX Font Info:    Trying to load font information for OMS+jkp on input line 4
+4.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\omsjkp.fd
+File: omsjkp.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 44.
+LaTeX Font Info:    Trying to load font information for OMX+jkp on input line 4
+4.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\omxjkp.fd
+File: omxjkp.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 44.
+LaTeX Font Info:    Trying to load font information for U+jkpexa on input line 
+44.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ujkpexa.fd
+File: ujkpexa.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count322
+\scratchdimen=\dimen182
+\scratchbox=\box120
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen183
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks35
+)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count328
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-spanish.trsl
+File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `spanish'. on input line 44.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<Docus/portadav1.pdf, id=1, 614.295pt x 794.97pt>
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf>
+Package pdftex.def Info: Docus/portadav1.pdf  used on input line 45.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf>
+Package pdftex.def Info: Docus/portadav1.pdf  used on input line 45.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Docus/portadav1.pdf, id=4, page=1, 614.295pt x 794.97pt>
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf, page 1>
+Package pdftex.def Info: Docus/portadav1.pdf , page1 used on input line 45.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf, page 1>
+Package pdftex.def Info: Docus/portadav1.pdf , page1 used on input line 45.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf, page 1>
+Package pdftex.def Info: Docus/portadav1.pdf , page1 used on input line 45.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf, page 1>
+Package pdftex.def Info: Docus/portadav1.pdf , page1 used on input line 45.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Docus/portadav1.pdf Graphic file (type pdf)
+<use Docus/portadav1.pdf, page 1>
+Package pdftex.def Info: Docus/portadav1.pdf , page1 used on input line 45.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[1
+
+ <./Docus/portadav1.pdf{C:/Users/anton/AppData/Local/MiKTeX/pdftex/config/pdfte
+x.map}>] (TesisByOAEB.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+jkpsya on input line 
+3.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ujkpsya.fd
+File: ujkpsya.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Trying to load font information for U+jkpsyb on input line 
+3.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ujkpsyb.fd
+File: ujkpsyb.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Trying to load font information for U+jkpmia on input line 
+3.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ujkpmia.fd
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 
+3.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ujkpsyc.fd
+File: ujkpsyc.fd 2006/08/15 v1.0
+))
+\tf@toc=\write3
+\openout3 = `TesisByOAEB.toc'.
+
+
+[2] (TesisByOAEB.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [3])
+\tf@lof=\write4
+\openout4 = `TesisByOAEB.lof'.
+
+ [4] (TesisByOAEB.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write5
+\openout5 = `TesisByOAEB.lot'.
+
+
+No file TesisByOAEB.ind.
+[5] [6]
+Overfull \hbox (0.1901pt too wide) in paragraph at lines 111--112
+[]\OT1/jkp/m/n/10 M[]eto-dos de me-tro-log[]a []opti-ca ge-ne-ran im[]age-nes,
+ co-mo los pa-tro-nes de fran-
+ []
+
+[7]
+<tifs/tif31.png, id=62, 134.904pt x 123.8226pt>
+File: tifs/tif31.png Graphic file (type png)
+<use tifs/tif31.png>
+Package pdftex.def Info: tifs/tif31.png  used on input line 137.
+(pdftex.def)             Requested size: 103.50105pt x 95.0017pt.
+<tifs/tif32.png, id=64, 134.904pt x 123.8226pt>
+File: tifs/tif32.png Graphic file (type png)
+<use tifs/tif32.png>
+Package pdftex.def Info: tifs/tif32.png  used on input line 140.
+(pdftex.def)             Requested size: 103.50105pt x 95.0017pt.
+<tifs/tif33.png, id=65, 134.904pt x 123.8226pt>
+File: tifs/tif33.png Graphic file (type png)
+<use tifs/tif33.png>
+Package pdftex.def Info: tifs/tif33.png  used on input line 143.
+(pdftex.def)             Requested size: 103.50105pt x 95.0017pt.
+ [8] [9 <./tifs/tif31.png> <./tifs/tif32.png> <./tifs/tif33.png>] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\OT1/jkp/m/n/10 Remover rui-do pe-
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 180--180
+\OT1/jkp/m/n/10 fre-cuen-cia ba-sa-do en
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 180--180
+[]|\OT1/jkp/m/n/10 Reducci[]on de rui-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\OT1/jkp/m/n/10 Van der Jeught S,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]|\OT1/jkp/m/n/10 Dar a co-no-cer los m[]eto-dos m[]as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\OT1/jkp/m/n/10 com[]unmen-te uti-li-za-dos pa-ra la
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 184--184
+[]|\OT1/jkp/m/n/10 Uso de re-des neu-ro-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 184--184
+\OT1/jkp/m/n/10 na-les con-vo-lu-cio-na-les
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 184--185
+\OT1/jkp/m/n/10 sig-ni-fi-ca-ti-vas com-pa-ra-dos con otros
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 186--186
+[]|\OT1/jkp/m/n/10 Filtro de mor-fo-log[]a
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 186--186
+[]|\OT1/jkp/m/n/10 Reducir el rui-do pe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+\OT1/jkp/m/n/10 ri[]odi-co pre-sen-te en
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 186--186
+\OT1/jkp/m/n/10 el pro-ce-sa-mien-to de
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 188--189
+[]|\OT1/jkp/m/n/10 Alta efec-ti-vi-dad pa-ra eli-mi-nar rui-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]|\OT1/jkp/m/n/10 Procesamiento de
+ []
+
+[11] [12] [13] [14]
+<tifs/tif34.png, id=91, 1105.12875pt x 436.63126pt>
+File: tifs/tif34.png Graphic file (type png)
+<use tifs/tif34.png>
+Package pdftex.def Info: tifs/tif34.png  used on input line 261.
+(pdftex.def)             Requested size: 345.0pt x 136.30702pt.
+<tifs/tif35.png, id=92, 896.34875pt x 388.45125pt>
+File: tifs/tif35.png Graphic file (type png)
+<use tifs/tif35.png>
+Package pdftex.def Info: tifs/tif35.png  used on input line 270.
+(pdftex.def)             Requested size: 345.0pt x 149.50974pt.
+ [15 <./tifs/tif34.png>]
+<tifs/tif36.png, id=97, 659.46375pt x 456.5055pt>
+File: tifs/tif36.png Graphic file (type png)
+<use tifs/tif36.png>
+Package pdftex.def Info: tifs/tif36.png  used on input line 284.
+(pdftex.def)             Requested size: 207.0021pt x 143.29149pt.
+ [16 <./tifs/tif35.png>]
+<tifs/tif39.png, id=102, 261.97874pt x 261.97874pt>
+File: tifs/tif39.png Graphic file (type png)
+<use tifs/tif39.png>
+Package pdftex.def Info: tifs/tif39.png  used on input line 295.
+(pdftex.def)             Requested size: 103.50105pt x 103.49846pt.
+<tifs/tif38.png, id=103, 551.661pt x 543.2295pt>
+File: tifs/tif38.png Graphic file (type png)
+<use tifs/tif38.png>
+Package pdftex.def Info: tifs/tif38.png  used on input line 298.
+(pdftex.def)             Requested size: 103.50105pt x 101.9133pt.
+<tifs/tif37.png, id=104, 338.4645pt x 338.4645pt>
+File: tifs/tif37.png Graphic file (type png)
+<use tifs/tif37.png>
+Package pdftex.def Info: tifs/tif37.png  used on input line 301.
+(pdftex.def)             Requested size: 103.50105pt x 103.49748pt.
+ [17 <./tifs/tif36.png> <./tifs/tif39.png> <./tifs/tif38.png> <./tifs/tif37.png
+>] [18]
+[19]
+
+LaTeX Warning: Citation `Schr:' on page 20 undefined on input line 402.
+
+[20]
+<tifs/tif1.png, id=124, 343.2825pt x 344.487pt>
+File: tifs/tif1.png Graphic file (type png)
+<use tifs/tif1.png>
+Package pdftex.def Info: tifs/tif1.png  used on input line 411.
+(pdftex.def)             Requested size: 172.5pt x 173.10512pt.
+<tifs/tif2.png, id=125, 435.42674pt x 216.81pt>
+File: tifs/tif2.png Graphic file (type png)
+<use tifs/tif2.png>
+Package pdftex.def Info: tifs/tif2.png  used on input line 420.
+(pdftex.def)             Requested size: 276.00105pt x 137.4313pt.
+ [21 <./tifs/tif1.png>]
+<tifs/tif3.png, id=130, 214.401pt x 110.21175pt>
+File: tifs/tif3.png Graphic file (type png)
+<use tifs/tif3.png>
+Package pdftex.def Info: tifs/tif3.png  used on input line 429.
+(pdftex.def)             Requested size: 276.00105pt x 141.89288pt.
+<tifs/tif4.png, id=131, 459.7175pt x 476.78125pt>
+File: tifs/tif4.png Graphic file (type png)
+<use tifs/tif4.png>
+Package pdftex.def Info: tifs/tif4.png  used on input line 440.
+(pdftex.def)             Requested size: 103.50105pt x 107.3439pt.
+<tifs/tif5.png, id=132, 459.7175pt x 476.78125pt>
+File: tifs/tif5.png Graphic file (type png)
+<use tifs/tif5.png>
+Package pdftex.def Info: tifs/tif5.png  used on input line 443.
+(pdftex.def)             Requested size: 103.50105pt x 107.3439pt.
+<tifs/tif6.png, id=133, 459.7175pt x 476.78125pt>
+File: tifs/tif6.png Graphic file (type png)
+<use tifs/tif6.png>
+Package pdftex.def Info: tifs/tif6.png  used on input line 446.
+(pdftex.def)             Requested size: 103.50105pt x 107.3439pt.
+<tifs/tif7.png, id=134, 459.7175pt x 476.78125pt>
+File: tifs/tif7.png Graphic file (type png)
+<use tifs/tif7.png>
+Package pdftex.def Info: tifs/tif7.png  used on input line 449.
+(pdftex.def)             Requested size: 103.50105pt x 107.3439pt.
+<tifs/tif8.png, id=135, 459.7175pt x 476.78125pt>
+File: tifs/tif8.png Graphic file (type png)
+<use tifs/tif8.png>
+Package pdftex.def Info: tifs/tif8.png  used on input line 452.
+(pdftex.def)             Requested size: 103.50105pt x 107.3439pt.
+<tifs/tif9.png, id=136, 459.7175pt x 476.78125pt>
+File: tifs/tif9.png Graphic file (type png)
+<use tifs/tif9.png>
+Package pdftex.def Info: tifs/tif9.png  used on input line 455.
+(pdftex.def)             Requested size: 103.50105pt x 107.3439pt.
+<tifs/tif10.png, id=137, 542.025pt x 541.02126pt>
+File: tifs/tif10.png Graphic file (type png)
+<use tifs/tif10.png>
+Package pdftex.def Info: tifs/tif10.png  used on input line 458.
+(pdftex.def)             Requested size: 103.50105pt x 103.30693pt.
+<tifs/tif11.png, id=138, 542.025pt x 541.02126pt>
+File: tifs/tif11.png Graphic file (type png)
+<use tifs/tif11.png>
+Package pdftex.def Info: tifs/tif11.png  used on input line 461.
+(pdftex.def)             Requested size: 103.50105pt x 103.30693pt.
+ [22 <./tifs/tif2.png> <./tifs/tif3.png>] [23 <./tifs/tif4.png (PNG copy)> <./t
+ifs/tif5.png (PNG copy)> <./tifs/tif6.png (PNG copy)> <./tifs/tif7.png (PNG cop
+y)> <./tifs/tif8.png (PNG copy)> <./tifs/tif9.png (PNG copy)> <./tifs/tif10.png
+ (PNG copy)> <./tifs/tif11.png (PNG copy)>]
+<tifs/tif12.png, id=147, 459.7175pt x 476.78125pt>
+File: tifs/tif12.png Graphic file (type png)
+<use tifs/tif12.png>
+Package pdftex.def Info: tifs/tif12.png  used on input line 481.
+(pdftex.def)             Requested size: 137.9979pt x 143.12277pt.
+<tifs/tif13.png, id=148, 459.7175pt x 476.78125pt>
+File: tifs/tif13.png Graphic file (type png)
+<use tifs/tif13.png>
+Package pdftex.def Info: tifs/tif13.png  used on input line 484.
+(pdftex.def)             Requested size: 137.9979pt x 143.12277pt.
+<tifs/tif14.png, id=149, 472.6458pt x 517.935pt>
+File: tifs/tif14.png Graphic file (type png)
+<use tifs/tif14.png>
+Package pdftex.def Info: tifs/tif14.png  used on input line 496.
+(pdftex.def)             Requested size: 137.9979pt x 151.21678pt.
+<tifs/tif15.png, id=150, 472.6458pt x 517.935pt>
+File: tifs/tif15.png Graphic file (type png)
+<use tifs/tif15.png>
+Package pdftex.def Info: tifs/tif15.png  used on input line 499.
+(pdftex.def)             Requested size: 137.9979pt x 151.21678pt.
+ [24 <./tifs/tif12.png (PNG copy)> <./tifs/tif13.png (PNG copy)>]
+<tifs/tif16.png, id=154, 477.785pt x 311.1625pt>
+File: tifs/tif16.png Graphic file (type png)
+<use tifs/tif16.png>
+Package pdftex.def Info: tifs/tif16.png  used on input line 510.
+(pdftex.def)             Requested size: 172.5pt x 112.34128pt.
+ [25 <./tifs/tif14.png (PNG copy)> <./tifs/tif15.png (PNG copy)> <./tifs/tif16.
+png>] [26]
+<tifs/tif17.png, id=163, 327.1422pt x 327.1422pt>
+File: tifs/tif17.png Graphic file (type png)
+<use tifs/tif17.png>
+Package pdftex.def Info: tifs/tif17.png  used on input line 530.
+(pdftex.def)             Requested size: 103.50105pt x 103.49959pt.
+
+Underfull \hbox (badness 2134) in paragraph at lines 530--530
+\OT1/jkp/m/n/8 cuen-cia con rui-do cua-si/-pe-
+ []
+
+<tifs/tif18.png, id=164, 327.1422pt x 327.1422pt>
+File: tifs/tif18.png Graphic file (type png)
+<use tifs/tif18.png>
+Package pdftex.def Info: tifs/tif18.png  used on input line 533.
+(pdftex.def)             Requested size: 103.50105pt x 103.49959pt.
+
+Underfull \hbox (badness 2512) in paragraph at lines 533--533
+[]\OT1/jkp/m/n/8 (b) Fre-cuen-cias no de-sea-das
+ []
+
+<tifs/tif19.png, id=165, 327.1422pt x 327.1422pt>
+File: tifs/tif19.png Graphic file (type png)
+<use tifs/tif19.png>
+Package pdftex.def Info: tifs/tif19.png  used on input line 536.
+(pdftex.def)             Requested size: 103.50105pt x 103.49959pt.
+[27 <./tifs/tif17.png (PNG copy)> <./tifs/tif18.png (PNG copy)> <./tifs/tif19.p
+ng (PNG copy)>]
+<tifs/tif22.png, id=169, 698.61pt x 720.6925pt>
+File: tifs/tif22.png Graphic file (type png)
+<use tifs/tif22.png>
+Package pdftex.def Info: tifs/tif22.png  used on input line 546.
+(pdftex.def)             Requested size: 276.00105pt x 284.7309pt.
+ [28 <./tifs/tif22.png>]
+File: tifs/tif17.png Graphic file (type png)
+<use tifs/tif17.png>
+Package pdftex.def Info: tifs/tif17.png  used on input line 568.
+(pdftex.def)             Requested size: 137.9979pt x 137.99779pt.
+<tifs/tif24.png, id=174, 54.6843pt x 56.1297pt>
+File: tifs/tif24.png Graphic file (type png)
+<use tifs/tif24.png>
+Package pdftex.def Info: tifs/tif24.png  used on input line 577.
+(pdftex.def)             Requested size: 103.50105pt x 106.24496pt.
+ [29]
+<tifs/tif25.png, id=178, 327.1422pt x 327.1422pt>
+File: tifs/tif25.png Graphic file (type png)
+<use tifs/tif25.png>
+Package pdftex.def Info: tifs/tif25.png  used on input line 591.
+(pdftex.def)             Requested size: 137.9979pt x 137.99779pt.
+ [30 <./tifs/tif24.png> <./tifs/tif25.png (PNG copy)>]
+<tifs/tif26.png, id=183, 327.1422pt x 327.1422pt>
+File: tifs/tif26.png Graphic file (type png)
+<use tifs/tif26.png>
+Package pdftex.def Info: tifs/tif26.png  used on input line 607.
+(pdftex.def)             Requested size: 137.9979pt x 137.99779pt.
+ [31 <./tifs/tif26.png (PNG copy)>]
+File: tifs/tif19.png Graphic file (type png)
+<use tifs/tif19.png>
+Package pdftex.def Info: tifs/tif19.png  used on input line 641.
+(pdftex.def)             Requested size: 137.9979pt x 137.99779pt.
+<tifs/tif28.png, id=188, 54.9252pt x 13.9722pt>
+File: tifs/tif28.png Graphic file (type png)
+<use tifs/tif28.png>
+Package pdftex.def Info: tifs/tif28.png  used on input line 654.
+(pdftex.def)             Requested size: 56.90796pt x 11.38113pt.
+<tifs/tif27.png, id=189, 15.8994pt x 77.3289pt>
+File: tifs/tif27.png Graphic file (type png)
+<use tifs/tif27.png>
+Package pdftex.def Info: tifs/tif27.png  used on input line 657.
+(pdftex.def)             Requested size: 11.38155pt x 56.90508pt.
+ [32]
+File: tifs/tif16.png Graphic file (type png)
+<use tifs/tif16.png>
+Package pdftex.def Info: tifs/tif16.png  used on input line 669.
+(pdftex.def)             Requested size: 158.70232pt x 103.3534pt.
+<tifs/tif29.png, id=193, 478.78876pt x 311.1625pt>
+File: tifs/tif29.png Graphic file (type png)
+<use tifs/tif29.png>
+Package pdftex.def Info: tifs/tif29.png  used on input line 672.
+(pdftex.def)             Requested size: 158.70232pt x 103.13974pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 678--712
+
+ []
+
+
+Overfull \hbox (0.28246pt too wide) in paragraph at lines 678--712
+\OT1/jkp/m/it/10 Set E $\OMS/jkp/m/n/10  [][]$ \OT1/jkp/m/it/10 (f[]laplace5(m,
+n)-min(f[]laplace5)/(max(f[]laplace5)-min(f[]laplace5))*255) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 678--712
+
+ []
+
+[33 <./tifs/tif28.png> <./tifs/tif27.png> <./tifs/tif29.png>]
+
+LaTeX Warning: Reference `' on page 34 undefined on input line 718.
+
+<tifs/tif23.png, id=201, 94.08379pt x 102.33508pt>
+File: tifs/tif23.png Graphic file (type png)
+<use tifs/tif23.png>
+Package pdftex.def Info: tifs/tif23.png  used on input line 722.
+(pdftex.def)             Requested size: 276.00105pt x 300.27277pt.
+[34] [35 <./tifs/tif23.png>] [36]
+<tifs/tif40.png, id=212, 712.6625pt x 706.64pt>
+File: tifs/tif40.png Graphic file (type png)
+<use tifs/tif40.png>
+Package pdftex.def Info: tifs/tif40.png  used on input line 807.
+(pdftex.def)             Requested size: 103.50105pt x 102.61652pt.
+<tifs/tif41.png, id=213, 711.65875pt x 707.64375pt>
+File: tifs/tif41.png Graphic file (type png)
+<use tifs/tif41.png>
+Package pdftex.def Info: tifs/tif41.png  used on input line 810.
+(pdftex.def)             Requested size: 103.50105pt x 102.91345pt.
+<tifs/tif42.png, id=214, 714.67pt x 705.63625pt>
+File: tifs/tif42.png Graphic file (type png)
+<use tifs/tif42.png>
+Package pdftex.def Info: tifs/tif42.png  used on input line 813.
+(pdftex.def)             Requested size: 103.50105pt x 102.19081pt.
+<tifs/tif43.png, id=215, 714.67pt x 705.63625pt>
+File: tifs/tif43.png Graphic file (type png)
+<use tifs/tif43.png>
+Package pdftex.def Info: tifs/tif43.png  used on input line 816.
+(pdftex.def)             Requested size: 103.50105pt x 102.19081pt.
+<tifs/tif44.png, id=216, 713.66624pt x 705.63625pt>
+File: tifs/tif44.png Graphic file (type png)
+<use tifs/tif44.png>
+Package pdftex.def Info: tifs/tif44.png  used on input line 819.
+(pdftex.def)             Requested size: 103.50105pt x 102.33078pt.
+<tifs/tif45.png, id=217, 711.65875pt x 707.64375pt>
+File: tifs/tif45.png Graphic file (type png)
+<use tifs/tif45.png>
+Package pdftex.def Info: tifs/tif45.png  used on input line 822.
+(pdftex.def)             Requested size: 103.50105pt x 102.91345pt.
+<tifs/tif46.png, id=218, 711.65875pt x 707.64375pt>
+File: tifs/tif46.png Graphic file (type png)
+<use tifs/tif46.png>
+Package pdftex.def Info: tifs/tif46.png  used on input line 825.
+(pdftex.def)             Requested size: 103.50105pt x 102.91345pt.
+<tifs/tif47.png, id=219, 711.65875pt x 707.64375pt>
+File: tifs/tif47.png Graphic file (type png)
+<use tifs/tif47.png>
+Package pdftex.def Info: tifs/tif47.png  used on input line 828.
+(pdftex.def)             Requested size: 103.50105pt x 102.91345pt.
+<tifs/tif48.png, id=220, 711.65875pt x 707.64375pt>
+File: tifs/tif48.png Graphic file (type png)
+<use tifs/tif48.png>
+Package pdftex.def Info: tifs/tif48.png  used on input line 831.
+(pdftex.def)             Requested size: 103.50105pt x 102.91345pt.
+ [37] [38 <./tifs/tif40.png> <./tifs/tif41.png> <./tifs/tif42.png> <./tifs/tif4
+3.png> <./tifs/tif44.png> <./tifs/tif45.png> <./tifs/tif46.png> <./tifs/tif47.p
+ng> <./tifs/tif48.png>]
+<tifs/tif49.png, id=237, 29.2115pt x 40.49776pt>
+File: tifs/tif49.png Graphic file (type png)
+<use tifs/tif49.png>
+Package pdftex.def Info: tifs/tif49.png  used on input line 848.
+(pdftex.def)             Requested size: 103.50105pt x 143.4924pt.
+<tifs/tif52.png, id=238, 29.2115pt x 40.40291pt>
+File: tifs/tif52.png Graphic file (type png)
+<use tifs/tif52.png>
+Package pdftex.def Info: tifs/tif52.png  used on input line 851.
+(pdftex.def)             Requested size: 103.50105pt x 143.15634pt.
+<tifs/tif51.png, id=239, 29.30634pt x 40.40291pt>
+File: tifs/tif51.png Graphic file (type png)
+<use tifs/tif51.png>
+Package pdftex.def Info: tifs/tif51.png  used on input line 854.
+(pdftex.def)             Requested size: 103.50105pt x 142.69827pt.
+<tifs/tif50.png, id=240, 29.2115pt x 40.49776pt>
+File: tifs/tif50.png Graphic file (type png)
+<use tifs/tif50.png>
+Package pdftex.def Info: tifs/tif50.png  used on input line 857.
+(pdftex.def)             Requested size: 103.50105pt x 143.4924pt.
+ [39 <./tifs/tif49.png> <./tifs/tif52.png> <./tifs/tif51.png> <./tifs/tif50.png
+>]
+<tifs/tif53.png, id=248, 359.4228pt x 290.5254pt>
+File: tifs/tif53.png Graphic file (type png)
+<use tifs/tif53.png>
+Package pdftex.def Info: tifs/tif53.png  used on input line 870.
+(pdftex.def)             Requested size: 103.50105pt x 83.6606pt.
+<tifs/tif54.png, id=249, 359.4228pt x 290.5254pt>
+File: tifs/tif54.png Graphic file (type png)
+<use tifs/tif54.png>
+Package pdftex.def Info: tifs/tif54.png  used on input line 873.
+(pdftex.def)             Requested size: 103.50105pt x 83.6606pt.
+<tifs/tif55.png, id=250, 359.4228pt x 290.5254pt>
+File: tifs/tif55.png Graphic file (type png)
+<use tifs/tif55.png>
+Package pdftex.def Info: tifs/tif55.png  used on input line 876.
+(pdftex.def)             Requested size: 103.50105pt x 83.6606pt.
+<tifs/tif56.png, id=251, 601.24625pt x 425.59pt>
+File: tifs/tif56.png Graphic file (type png)
+<use tifs/tif56.png>
+Package pdftex.def Info: tifs/tif56.png  used on input line 889.
+(pdftex.def)             Requested size: 155.24895pt x 109.89099pt.
+<tifs/tif57.png, id=252, 605.26125pt x 422.57875pt>
+File: tifs/tif57.png Graphic file (type png)
+<use tifs/tif57.png>
+Package pdftex.def Info: tifs/tif57.png  used on input line 892.
+(pdftex.def)             Requested size: 155.24895pt x 108.39128pt.
+ [40 <./tifs/tif53.png (PNG copy)> <./tifs/tif54.png (PNG copy)> <./tifs/tif55.
+png (PNG copy)>]
+<tifs/tif58.png, id=256, 915.42pt x 517.4532pt>
+File: tifs/tif58.png Graphic file (type png)
+<use tifs/tif58.png>
+Package pdftex.def Info: tifs/tif58.png  used on input line 902.
+(pdftex.def)             Requested size: 341.42389pt x 170.7206pt.
+
+[41 <./tifs/tif56.png> <./tifs/tif57.png> <./tifs/tif58.png (PNG copy)>]
+<tifs/tif59.png, id=262, 513.92pt x 513.92pt>
+File: tifs/tif59.png Graphic file (type png)
+<use tifs/tif59.png>
+Package pdftex.def Info: tifs/tif59.png  used on input line 920.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--920
+[]\OT1/jkp/m/n/8 (a) Ima-gen con
+ []
+
+<tifs/tif64.png, id=263, 513.92pt x 513.92pt>
+File: tifs/tif64.png Graphic file (type png)
+<use tifs/tif64.png>
+Package pdftex.def Info: tifs/tif64.png  used on input line 923.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+
+Underfull \hbox (badness 2671) in paragraph at lines 923--923
+[]\OT1/jkp/m/n/8 (b) Ima-gen fil-tra-
+ []
+
+<tifs/tif60.png, id=264, 513.92pt x 513.92pt>
+File: tifs/tif60.png Graphic file (type png)
+<use tifs/tif60.png>
+Package pdftex.def Info: tifs/tif60.png  used on input line 926.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+<tifs/tif65.png, id=265, 513.92pt x 513.92pt>
+File: tifs/tif65.png Graphic file (type png)
+<use tifs/tif65.png>
+Package pdftex.def Info: tifs/tif65.png  used on input line 929.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+
+Underfull \hbox (badness 2293) in paragraph at lines 929--929
+[]\OT1/jkp/m/n/8 (d) Ima-gen fil-tra-
+ []
+
+<tifs/tif61.png, id=266, 513.92pt x 513.92pt>
+File: tifs/tif61.png Graphic file (type png)
+<use tifs/tif61.png>
+Package pdftex.def Info: tifs/tif61.png  used on input line 932.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+<tifs/tif66.png, id=267, 513.92pt x 513.92pt>
+File: tifs/tif66.png Graphic file (type png)
+<use tifs/tif66.png>
+Package pdftex.def Info: tifs/tif66.png  used on input line 935.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+<tifs/tif62.png, id=268, 513.92pt x 513.92pt>
+File: tifs/tif62.png Graphic file (type png)
+<use tifs/tif62.png>
+Package pdftex.def Info: tifs/tif62.png  used on input line 938.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 938--938
+[]\OT1/jkp/m/n/8 (g) Ima-gen con
+ []
+
+<tifs/tif67.png, id=269, 513.92pt x 513.92pt>
+File: tifs/tif67.png Graphic file (type png)
+<use tifs/tif67.png>
+Package pdftex.def Info: tifs/tif67.png  used on input line 941.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+
+Underfull \hbox (badness 2418) in paragraph at lines 941--941
+[]\OT1/jkp/m/n/8 (h) Ima-gen fil-tra-
+ []
+
+<tifs/tif63.png, id=270, 513.92pt x 513.92pt>
+File: tifs/tif63.png Graphic file (type png)
+<use tifs/tif63.png>
+Package pdftex.def Info: tifs/tif63.png  used on input line 944.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+<tifs/tif68.png, id=271, 513.92pt x 513.92pt>
+File: tifs/tif68.png Graphic file (type png)
+<use tifs/tif68.png>
+Package pdftex.def Info: tifs/tif68.png  used on input line 947.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+<tifs/tif69.png, id=272, 513.92pt x 513.92pt>
+File: tifs/tif69.png Graphic file (type png)
+<use tifs/tif69.png>
+Package pdftex.def Info: tifs/tif69.png  used on input line 950.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--950
+[]\OT1/jkp/m/n/8 (k) Ima-gen con
+ []
+
+<tifs/tif70.png, id=273, 513.92pt x 513.92pt>
+File: tifs/tif70.png Graphic file (type png)
+<use tifs/tif70.png>
+Package pdftex.def Info: tifs/tif70.png  used on input line 953.
+(pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
+[42]
+<tifs/tif71.png, id=277, 832.5504pt x 393.8715pt>
+File: tifs/tif71.png Graphic file (type png)
+<use tifs/tif71.png>
+Package pdftex.def Info: tifs/tif71.png  used on input line 963.
+(pdftex.def)             Requested size: 341.4368pt x 142.2624pt.
+ [43 <./tifs/tif59.png (PNG copy)> <./tifs/tif64.png (PNG copy)> <./tifs/tif60.
+png (PNG copy)> <./tifs/tif65.png (PNG copy)> <./tifs/tif61.png (PNG copy)> <./
+tifs/tif66.png (PNG copy)> <./tifs/tif62.png (PNG copy)> <./tifs/tif67.png (PNG
+ copy)> <./tifs/tif63.png (PNG copy)> <./tifs/tif68.png (PNG copy)> <./tifs/tif
+69.png (PNG copy)> <./tifs/tif70.png (PNG copy)> <./tifs/tif71.png>]
+<tifs/tif79.png, id=283, 612.2875pt x 384.43625pt>
+File: tifs/tif79.png Graphic file (type png)
+<use tifs/tif79.png>
+Package pdftex.def Info: tifs/tif79.png  used on input line 981.
+(pdftex.def)             Requested size: 155.24895pt x 97.4756pt.
+<tifs/tif80.png, id=284, 609.27625pt x 381.425pt>
+File: tifs/tif80.png Graphic file (type png)
+<use tifs/tif80.png>
+Package pdftex.def Info: tifs/tif80.png  used on input line 984.
+(pdftex.def)             Requested size: 155.24895pt x 97.18933pt.
+<tifs/tif82.png, id=285, 362.3136pt x 276.5532pt>
+File: tifs/tif82.png Graphic file (type png)
+<use tifs/tif82.png>
+Package pdftex.def Info: tifs/tif82.png  used on input line 996.
+(pdftex.def)             Requested size: 103.50105pt x 78.99992pt.
+<tifs/tif83.png, id=286, 362.3136pt x 276.5532pt>
+File: tifs/tif83.png Graphic file (type png)
+<use tifs/tif83.png>
+Package pdftex.def Info: tifs/tif83.png  used on input line 999.
+(pdftex.def)             Requested size: 103.50105pt x 78.99992pt.
+<tifs/tif81.png, id=287, 362.3136pt x 276.5532pt>
+File: tifs/tif81.png Graphic file (type png)
+<use tifs/tif81.png>
+Package pdftex.def Info: tifs/tif81.png  used on input line 1002.
+(pdftex.def)             Requested size: 103.50105pt x 78.99992pt.
+
+[44 <./tifs/tif79.png> <./tifs/tif80.png>]
+<tifs/tif84.png, id=293, 924.0924pt x 517.4532pt>
+File: tifs/tif84.png Graphic file (type png)
+<use tifs/tif84.png>
+Package pdftex.def Info: tifs/tif84.png  used on input line 1012.
+(pdftex.def)             Requested size: 345.0pt x 193.18384pt.
+ [45 <./tifs/tif82.png (PNG copy)> <./tifs/tif83.png (PNG copy)> <./tifs/tif81.
+png (PNG copy)> <./tifs/tif84.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+[]|\OT1/jkp/m/n/10 Multires-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+[]|\OT1/jkp/m/n/10 Multires-CNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+\OT1/jkp/m/n/10 lote(batch-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]|\OT1/jkp/m/n/10 Pesos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 ini-cia-les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 (weights
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]|\OT1/jkp/m/n/10 Aleatorio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 Gaus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 siano
+ []
+
+
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 (Mean=0.0,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]|\OT1/jkp/m/n/10 Aleatorio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 Gaus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 siano
+ []
+
+
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 (Mean=0.0,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]|\OT1/jkp/m/n/10 Aleatorio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 Gaus-siano
+ []
+
+
+Overfull \hbox (2.41034pt too wide) in paragraph at lines 1030--1030
+\OT1/jkp/m/n/10 (Mean=0.0,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+[]|\OT1/jkp/m/n/10 Aleatorio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+\OT1/jkp/m/n/10 Gaus-siano
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+\OT1/jkp/m/n/10 (Mean=0.0,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+[]|\OT1/jkp/m/n/10 Tasa de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+\OT1/jkp/m/n/10 apren-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+\OT1/jkp/m/n/10 za-je(rate
+ []
+
+
+Overfull \hbox (5.92488pt too wide) in paragraph at lines 1036--1036
+[]|\OT1/jkp/m/n/10 Optimizador| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+[]|\OT1/jkp/m/n/10 Plan de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+\OT1/jkp/m/n/10 en-tre-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+\OT1/jkp/m/n/10 mien-to
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 1040--1040
+\OT1/jkp/m/n/10 (train, val,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+[]|\OT1/jkp/m/n/10 70$ $%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+\OT1/jkp/m/n/10 10$ $%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+[]|\OT1/jkp/m/n/10 70$ $%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+\OT1/jkp/m/n/10 10$ $%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
+[]|\OT1/jkp/m/n/10 70$ $%, 10$ $%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
+\OT1/jkp/m/n/10 im[]age-nes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
+\OT1/jkp/m/n/10 (Width,
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 1042--1042
+[]|$\OT1/jkp/m/n/10 512 \OMS/jkp/m/n/10  \OT1/jkp/m/n/10 512$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
+[]|\OT1/jkp/m/n/10 Cantidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
+\OT1/jkp/m/n/10 de im[]age-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
+[]|\OT1/jkp/m/n/10 Cantidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
+\OT1/jkp/m/n/10 de im[]age-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
+[]|\OT1/jkp/m/n/10 Cantidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
+\OT1/jkp/m/n/10 de im[]age-
+ []
+
+[46] [47]
+<tifs/tif96.png, id=303, 832.7913pt x 380.3811pt>
+File: tifs/tif96.png Graphic file (type png)
+<use tifs/tif96.png>
+Package pdftex.def Info: tifs/tif96.png  used on input line 1063.
+(pdftex.def)             Requested size: 345.0pt x 157.5766pt.
+<tifs/tif95.png, id=304, 832.5504pt x 380.3811pt>
+File: tifs/tif95.png Graphic file (type png)
+<use tifs/tif95.png>
+Package pdftex.def Info: tifs/tif95.png  used on input line 1066.
+(pdftex.def)             Requested size: 345.0pt x 157.62885pt.
+
+Overfull \hbox (5.09998pt too wide) in paragraph at lines 1063--1067
+ [] 
+ []
+
+
+Overfull \hbox (5.09998pt too wide) in paragraph at lines 1063--1067
+ [] 
+ []
+
+<tifs/tif122.png, id=305, 832.3095pt x 393.8715pt>
+File: tifs/tif122.png Graphic file (type png)
+<use tifs/tif122.png>
+Package pdftex.def Info: tifs/tif122.png  used on input line 1076.
+(pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
+<tifs/tif123.png, id=306, 832.3095pt x 393.8715pt>
+File: tifs/tif123.png Graphic file (type png)
+<use tifs/tif123.png>
+Package pdftex.def Info: tifs/tif123.png  used on input line 1079.
+(pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
+<tifs/tif124.png, id=307, 832.5504pt x 393.8715pt>
+File: tifs/tif124.png Graphic file (type png)
+<use tifs/tif124.png>
+Package pdftex.def Info: tifs/tif124.png  used on input line 1082.
+(pdftex.def)             Requested size: 327.74895pt x 155.05766pt.
+
+Underfull \hbox (badness 1448) in paragraph at lines 1082--1082
+[]\OT1/jkp/m/n/8 (c) Evo-lu-ci[]on de per-di-da por en-tre-na-mien-to vs va-li-
+da-ci[]on de mo-de-lo Multiresolution-
+ []
+
+[48 <./tifs/tif96.png> <./tifs/tif95.png>]
+Overfull \vbox (26.38211pt too high) has occurred while \output is active []
+
+
+[49 <./tifs/tif122.png> <./tifs/tif123.png> <./tifs/tif124.png>]
+<tifs/tif125.png, id=320, 832.5504pt x 393.8715pt>
+File: tifs/tif125.png Graphic file (type png)
+<use tifs/tif125.png>
+Package pdftex.def Info: tifs/tif125.png  used on input line 1106.
+(pdftex.def)             Requested size: 327.74895pt x 155.05766pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
+[]|\OT1/jkp/m/n/10 Multires-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1126
+[]|\OT1/jkp/m/n/10 Multires-CNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+[]|\OT1/jkp/m/n/10 Perdida
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 1129--1129
+[]|\OT1/jkp/m/n/10 Perdida de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\OT1/jkp/m/n/10 va-li-da-ci[]on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+[]|\OT1/jkp/m/n/10 Tiempo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+\OT1/jkp/m/n/10 de en-tre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+\OT1/jkp/m/n/10 na-mien-to
+ []
+
+
+Overfull \hbox (5.39488pt too wide) in paragraph at lines 1131--1131
+\OT1/jkp/m/n/10 (HH:MM:SS)| 
+ []
+
+[50 <./tifs/tif125.png>]
+<tifs/tif87.png, id=325, 389.455pt x 389.455pt>
+File: tifs/tif87.png Graphic file (type png)
+<use tifs/tif87.png>
+Package pdftex.def Info: tifs/tif87.png  used on input line 1148.
+(pdftex.def)             Requested size: 103.50105pt x 103.49626pt.
+
+Underfull \hbox (badness 1917) in paragraph at lines 1148--1148
+[]\OT1/jkp/m/n/8 (a) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif88.png, id=326, 513.92pt x 513.92pt>
+File: tifs/tif88.png Graphic file (type png)
+<use tifs/tif88.png>
+Package pdftex.def Info: tifs/tif88.png  used on input line 1151.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+
+Underfull \hbox (badness 1668) in paragraph at lines 1151--1151
+[]\OT1/jkp/m/n/8 (b) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif86.png, id=327, 256.96pt x 256.96pt>
+File: tifs/tif86.png Graphic file (type png)
+<use tifs/tif86.png>
+Package pdftex.def Info: tifs/tif86.png  used on input line 1154.
+(pdftex.def)             Requested size: 103.50105pt x 103.4997pt.
+
+Underfull \hbox (badness 2073) in paragraph at lines 1154--1154
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif85.png, id=328, 513.92pt x 513.92pt>
+File: tifs/tif85.png Graphic file (type png)
+<use tifs/tif85.png>
+Package pdftex.def Info: tifs/tif85.png  used on input line 1157.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+
+Underfull \hbox (badness 1546) in paragraph at lines 1157--1157
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif89.png, id=329, 513.92pt x 513.92pt>
+File: tifs/tif89.png Graphic file (type png)
+<use tifs/tif89.png>
+Package pdftex.def Info: tifs/tif89.png  used on input line 1160.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+<tifs/tif90.png, id=330, 360.3864pt x 290.5254pt>
+File: tifs/tif90.png Graphic file (type png)
+<use tifs/tif90.png>
+Package pdftex.def Info: tifs/tif90.png  used on input line 1176.
+(pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
+<tifs/tif93.png, id=331, 360.3864pt x 290.5254pt>
+File: tifs/tif93.png Graphic file (type png)
+<use tifs/tif93.png>
+Package pdftex.def Info: tifs/tif93.png  used on input line 1179.
+(pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
+<tifs/tif92.png, id=332, 360.3864pt x 290.5254pt>
+File: tifs/tif92.png Graphic file (type png)
+<use tifs/tif92.png>
+Package pdftex.def Info: tifs/tif92.png  used on input line 1182.
+(pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1182--1182
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif91.png, id=333, 360.3864pt x 290.5254pt>
+File: tifs/tif91.png Graphic file (type png)
+<use tifs/tif91.png>
+Package pdftex.def Info: tifs/tif91.png  used on input line 1185.
+(pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1185--1185
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif94.png, id=334, 360.3864pt x 290.5254pt>
+File: tifs/tif94.png Graphic file (type png)
+<use tifs/tif94.png>
+Package pdftex.def Info: tifs/tif94.png  used on input line 1188.
+(pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
+[51 <./tifs/tif87.png (PNG copy)> <./tifs/tif88.png (PNG copy)> <./tifs/tif86.p
+ng (PNG copy)> <./tifs/tif85.png (PNG copy)> <./tifs/tif89.png (PNG copy)>]
+<tifs/tif112.png, id=338, 153.2124pt x 153.2124pt>
+File: tifs/tif112.png Graphic file (type png)
+<use tifs/tif112.png>
+Package pdftex.def Info: tifs/tif112.png  used on input line 1201.
+(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+<tifs/tif113.png, id=339, 153.2124pt x 153.2124pt>
+File: tifs/tif113.png Graphic file (type png)
+<use tifs/tif113.png>
+Package pdftex.def Info: tifs/tif113.png  used on input line 1204.
+(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+<tifs/tif114.png, id=340, 153.2124pt x 153.2124pt>
+File: tifs/tif114.png Graphic file (type png)
+<use tifs/tif114.png>
+Package pdftex.def Info: tifs/tif114.png  used on input line 1207.
+(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1207
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif115.png, id=341, 153.2124pt x 153.2124pt>
+File: tifs/tif115.png Graphic file (type png)
+<use tifs/tif115.png>
+Package pdftex.def Info: tifs/tif115.png  used on input line 1210.
+(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1210
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif116.png, id=342, 153.2124pt x 153.2124pt>
+File: tifs/tif116.png Graphic file (type png)
+<use tifs/tif116.png>
+Package pdftex.def Info: tifs/tif116.png  used on input line 1213.
+(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+<tifs/tif117.png, id=343, 513.92pt x 513.92pt>
+File: tifs/tif117.png Graphic file (type png)
+<use tifs/tif117.png>
+Package pdftex.def Info: tifs/tif117.png  used on input line 1216.
+(pdftex.def)             Requested size: 137.9979pt x 137.99959pt.
+[52 <./tifs/tif90.png (PNG copy)> <./tifs/tif93.png (PNG copy)> <./tifs/tif92.p
+ng (PNG copy)> <./tifs/tif91.png (PNG copy)> <./tifs/tif94.png (PNG copy)>]
+[53 <./tifs/tif112.png (PNG copy)> <./tifs/tif113.png (PNG copy)> <./tifs/tif11
+4.png (PNG copy)> <./tifs/tif115.png (PNG copy)> <./tifs/tif116.png (PNG copy)>
+ <./tifs/tif117.png (PNG copy)>]
+<tifs/tif97.png, id=350, 924.0924pt x 517.4532pt>
+File: tifs/tif97.png Graphic file (type png)
+<use tifs/tif97.png>
+Package pdftex.def Info: tifs/tif97.png  used on input line 1226.
+(pdftex.def)             Requested size: 345.0pt x 193.18384pt.
+<tifs/tif100.png, id=351, 362.3136pt x 289.5618pt>
+File: tifs/tif100.png Graphic file (type png)
+<use tifs/tif100.png>
+Package pdftex.def Info: tifs/tif100.png  used on input line 1237.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif106.png, id=352, 362.3136pt x 289.5618pt>
+File: tifs/tif106.png Graphic file (type png)
+<use tifs/tif106.png>
+Package pdftex.def Info: tifs/tif106.png  used on input line 1240.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif104.png, id=353, 362.3136pt x 289.5618pt>
+File: tifs/tif104.png Graphic file (type png)
+<use tifs/tif104.png>
+Package pdftex.def Info: tifs/tif104.png  used on input line 1243.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1243--1243
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif102.png, id=354, 362.3136pt x 289.5618pt>
+File: tifs/tif102.png Graphic file (type png)
+<use tifs/tif102.png>
+Package pdftex.def Info: tifs/tif102.png  used on input line 1246.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1246
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif98.png, id=355, 362.3136pt x 289.5618pt>
+File: tifs/tif98.png Graphic file (type png)
+<use tifs/tif98.png>
+Package pdftex.def Info: tifs/tif98.png  used on input line 1249.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif108.png, id=356, 362.3136pt x 289.5618pt>
+File: tifs/tif108.png Graphic file (type png)
+<use tifs/tif108.png>
+Package pdftex.def Info: tifs/tif108.png  used on input line 1252.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+[54 <./tifs/tif97.png (PNG copy)>] [55 <./tifs/tif100.png (PNG copy)> <./tifs/t
+if106.png (PNG copy)> <./tifs/tif104.png (PNG copy)> <./tifs/tif102.png (PNG co
+py)> <./tifs/tif98.png (PNG copy)> <./tifs/tif108.png (PNG copy)>]
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1267--1268
+[]|\OT1/jkp/m/n/10 MSE(Perfil)| 
+ []
+
+
+Overfull \hbox (5.61792pt too wide) in paragraph at lines 1269--1269
+[]|\OT1/jkp/b/n/10 Multiresolution-
+ []
+
+
+Overfull \hbox (2.01797pt too wide) in paragraph at lines 1272--1272
+[]|\OT1/jkp/m/n/10 Multiresolution-
+ []
+
+
+LaTeX Warning: Reference `' on page 56 undefined on input line 1305.
+
+
+LaTeX Warning: Reference `' on page 56 undefined on input line 1305.
+
+File: tifs/tif97.png Graphic file (type png)
+<use tifs/tif97.png>
+Package pdftex.def Info: tifs/tif97.png  used on input line 1309.
+(pdftex.def)             Requested size: 345.0pt x 193.18384pt.
+[56] [57] [58] [59]
+LaTeX Font Info:    Trying to load font information for OT1+jkptt on input line
+ 1392.
+
+(C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ot1jkptt.fd
+File: ot1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for OT1/jkptt.
+)
+Underfull \hbox (badness 2772) in paragraph at lines 1401--1402
+[]\OT1/jkp/m/n/10 Karacan, L., Er-dem, E., & Er-dem, A.: Structure-preserving i
+ma-ge
+ []
+
+[60] [61]
+Underfull \hbox (badness 3229) in paragraph at lines 1494--1495
+[]\OT1/jkp/m/n/10 Mart[]nez-Su[]arez, V. M., Pedraza-Ortega, J. C., Salazar-Co
+lores, S.,
+ []
+
+<C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocolo/Di
+ploma Paper-1.pdf, id=385, 845.07718pt x 597.73312pt>
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1499.
+(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1499.
+(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
+<C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocolo/Di
+ploma Paper-1.pdf, id=388, page=1, 845.07718pt x 597.73312pt>
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
+[62]
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
+ [63 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf>] (TesisByOAEB.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12838 strings out of 478864
+ 239213 string characters out of 2848660
+ 521214 words of memory out of 3000000
+ 30453 multiletter control sequences out of 15000+600000
+ 429963 words of font info for 83 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,17n,81p,2250b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:
+/Users/anton/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/kpfonts/kpfonts-expe
+rt.enc}<C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/anton/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/kpfonts/jkpbit8a.pfb><C:/Users/anton/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/anton/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpex.pfb><C:/Users/anton/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Users/anton/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmia.pfb><C:/Users/ant
+on/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Us
+ers/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmn8a.pfb>
+<C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmne
+.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/j
+kpsy.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfon
+ts/jkpttmn8a.pfb>
+Output written on TesisByOAEB.pdf (63 pages, 14495945 bytes).
+PDF statistics:
+ 507 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+
