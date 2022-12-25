@@ -906,8 +906,7 @@ La imagen de la figura \ref{tif58} muestra el análisis de perfil del objeto mos
 
 \subsection{Entrenamiento de Red Neuronal Convolucional Profunda (Deep CNN)}
 
-Para realizar el entrenamiento de la red neuronal propuesta, se utiliza la base de datos generada con software \textit{Blender}, en el que se pre-procesaron las imágenes con ruido cuasi/periódico una vez que se le aplico la extracción y desenvolvimiento de fase usando el algoritmo desarrollado mostrado en la sección 4.2, esto para obtener las imágenes objetivo(target) de cada imagen afectada por ruido cuasi/periódico. Este entrenamiento se realizo en un ordenador personal con un procesador I7-10750H de @2.60 GHz, con 16 Gb de memoria RAM y una tarjeta gráfica NVIDIA GeForce RTX 3060 Laptop GPU con 6 Gb de memoria RAM. Se uso también el software Python 3.7.11, libreria Pytorch 1.9.0, y entorno de programación PyCharm Community Edition 2021.1.1.. 
-%Ademas también se uso una tarjeta gráfica NVIDIA GeForce GTX 1070 para comparación.
+Para realizar el entrenamiento de la red neuronal propuesta, se utiliza la base de datos generada con software \textit{Blender}, en el que se pre-procesaron las imágenes con ruido cuasi/periódico una vez que se le aplico la extracción y desenvolvimiento de fase usando el algoritmo desarrollado mostrado en la sección 4.2, esto para obtener las imágenes objetivo(target) de cada imagen afectada por ruido cuasi/periódico. Este entrenamiento se realizo en un ordenador personal con un procesador I7-10750H de @2.60 GHz, con 16 Gb de memoria RAM y una tarjeta gráfica NVIDIA GeForce RTX 3060 Laptop GPU con 6 Gb de memoria RAM. Se uso también el software Python 3.7.11, libreria Pytorch 1.9.0, y entorno de programación PyCharm Community Edition 2021.1.1..  Ademas también se uso una tarjeta gráfica NVIDIA GeForce GTX 1070 para comparación de rendimiento de entrenamiento.
 
 Para realizar el entrenamiento se dividieron las 345 imágenes en proporción de 70\% para entrenamiento, 10\% para validación y 20\% para pruebas siguiendo la metodología propuesta por Sun(Sun, Yu, \& Wang, 2018)\cite{Sun:Yu}. Algunas imágenes de la base de datos pueden observarse en la figura \ref{tif59606162636465666768f69} tanto la imagen con ruido cuasi/periódico como su correspondiente imagen objetivo pre-procesada con el algoritmo desarrollado para atenuar el ruido cuasi/periódico.
 
@@ -956,7 +955,7 @@ Se puede observar la amplia variedad de imágenes utilizadas para el entrenamien
       \end{center}
 \end{figure}
 
-El entrenamiento de la red propuesta fue realizado en 00:44:48 horas alcanzando una perdida por entrenamiento(Train Loss) de 6.4e-5 y una perdida por validación (\textbf{Val Loss}) de 0.000127, como se muestra en la gráfica de la figura \ref{tif71}..
+El entrenamiento de la red propuesta fue realizado en 00:44:48 horas alcanzando una perdida por entrenamiento(Train Loss) de 6.4e-5 y una perdida por validación (\textbf{Val Loss}) de 0.000127, como se muestra en la gráfica de la figura \ref{tif71}.
 
 \begin{figure}[H]
 	\centering
@@ -1054,7 +1053,7 @@ Cantidad de imágenes (Test)  & 69  & 69 & 69 & 69 \\
 \end{table}
 
 
-Las gráficas de las figuras \ref{tif95} y \ref{tif96} muestran la evolución de la perdida por entrenamiento y por validación de los modelos seleccionados en comparación con el modelo propuesto representado por linea roja. Así mismo se muestra la evolución de la perdida por entrenamiento y validación del entrenamiento de cada CNN, como se muestra en las gráficas de la figura \ref{tif122123124}, observándose una evolución mas uniforme el correspondiente al modelo propuesto, mostrado en la gráfica \ref{tif125}.
+Las gráficas de las figuras \ref{tif95} y \ref{tif96} muestran la evolución de la perdida por entrenamiento y por validación de los modelos seleccionados en comparación con el modelo propuesto representado por linea roja. Así mismo se muestra la evolución de la perdida por entrenamiento y validación del entrenamiento de cada modelo CNN, tanto el propuesto como los seleccionados para comparación, como se muestra en las gráficas de la figura \ref{tif122123124}, observándose una evolución mas uniforme el correspondiente al modelo propuesto, mostrado en la gráfica \ref{tif125}.
 
 \begin{figure}[H]
       \begin{center}
@@ -1116,7 +1115,7 @@ Las gráficas de las figuras \ref{tif95} y \ref{tif96} muestran la evolución de
 %    \label{tif125}
 %\end{figure}
 
-La cantidad de imágenes, valores de perdida de función de costo y perdida de validación, ademas del tiempo de entrenamiento de cada modelo se muestran en la tabla \ref{resultadoscomparacion}.
+Los valores de perdida por entrenamiento y validación, ademas del tiempo de entrenamiento de cada modelo se muestran en la tabla \ref{resultadoscomparacion}.
 
 \begin{table}[H]
 \begin{center}
@@ -1124,9 +1123,9 @@ La cantidad de imágenes, valores de perdida de función de costo y perdida de v
 \hline
 Resultados & UNet & FCN32s & Multires-CNN & Multires-CNN Modified\\	
 \hline
-Perdida (Loss) & 0.001115  & 0.000544 & 0.000162 & 6.4e-05 \\
+Perdida por entrenamiento(Loss train) & 0.001115  & 0.000544 & 0.000162 & 6.4e-05 \\
 \hline
-Perdida de validación (Loss val) & 0.000557 & 0.000307 & 8e-05 & 0.000127 \\
+Perdida por validación (Loss val) & 0.000557 & 0.000307 & 8e-05 & 0.000127 \\
 \hline
 Tiempo de entrenamiento (HH:MM:SS) & 00:46:46 & 00:30:58 & 00:45:18 & 00:44:48 \\
 \hline
@@ -1197,29 +1196,29 @@ Para la segunda prueba se tomo un objeto simétrico para realizar una comparaci�
 \begin{figure}[H]
       \begin{center}
         \subfigure[Objeto 3D obtenido con UNET.]{
-            \includegraphics[width=0.4\textwidth]{tifs/tif112.png}
+            \includegraphics[width=0.3\textwidth]{tifs/tif112.png}
             \label{tif112}}
         \subfigure[Objeto 3D obtenido con FCN32s.]{
-            \includegraphics[width=0.4\textwidth]{tifs/tif113.png}
+            \includegraphics[width=0.3\textwidth]{tifs/tif113.png}
             \label{tif113}}
 		\subfigure[Objeto 3D obtenido con Multiresolution-CNN.]{
-            \includegraphics[width=0.4\textwidth]{tifs/tif114.png}
+            \includegraphics[width=0.3\textwidth]{tifs/tif114.png}
             \label{tif114}}        
         \subfigure[Objeto 3D obtenido con Multiresolution-CNN Modified.]{
-            \includegraphics[width=0.4\textwidth]{tifs/tif115.png}
+            \includegraphics[width=0.3\textwidth]{tifs/tif115.png}
             \label{tif115}}
         \subfigure[Objeto 3D original con ruido cuasi/periódico obtenido con PSP.]{
-            \includegraphics[width=0.4\textwidth]{tifs/tif116.png}
+            \includegraphics[width=0.3\textwidth]{tifs/tif116.png}
             \label{tif116}}
         \subfigure[Objeto 3D original.]{
-            \includegraphics[width=0.4\textwidth]{tifs/tif117.png}
+            \includegraphics[width=0.3\textwidth]{tifs/tif117.png}
             \label{tif117}}
         \caption{Representación 2D de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}
         \label{tif112113114115116117}
       \end{center}
 \end{figure}
 
-Se efectuaron varias mediciones incluyendo un análisis de perfil del objeto con el fin de comparar el rendimiento de la metodología aplicada. La figura \ref{tif97} muestra el análisis de perfil después de aplicar un escalamiento que ajusta las alturas mediante minimización de error cuadrático medio \cite{Alfa:Mont} para poder realizar la comparación. %\textbf{Alfa:Mont}
+Se efectuaron varias mediciones incluyendo un análisis de perfil del objeto con el fin de comparar el rendimiento de la metodología aplicada. La figura \ref{tif97} muestra el análisis de perfil después de aplicar un escalamiento que ajusta las alturas mediante minimización de error cuadrático medio\cite{Alfa:Mont} para poder realizar la comparación. %\textbf{Alfa:Mont}
 
 \begin{figure}[H]
 	\centering
@@ -1301,15 +1300,186 @@ Multiresolution-CNN & 23.7022 & 0.0043 & 0.9499 & 0.0065 \\[2pt]
 %      \end{center}
 %\end{figure}
 
-\subsection*{Resultados de entrenamiento usando GPU GeForce GTX 1060}
-Los parámetros utilizados para entrenamiento con arquitecturas propuesta y seleccionadas para comparación son los mismos que se utilizaron en la tabla \ref{Parametroscomparacion}. Las gráficas mostradas en las figuras \ref{} y \ref{} muestran la evolución de las perdidas por entrenamiento y validación de los modelos entrenados.
+\subsection*{Resultados de entrenamiento usando GPU GeForce GTX 1070}
+Los parámetros utilizados para entrenamiento con arquitecturas propuesta y seleccionadas para comparación son los mismos que se utilizaron en la tabla \ref{Parametroscomparacion}. Las gráficas mostradas en las figuras \ref{tif127} y \ref{tif128} muestran la evolución de las perdidas por entrenamiento y validación de los modelos entrenados.
 
 \begin{figure}[H]
 	\centering
-    \includegraphics[width=1\textwidth]{tifs/tif97.png}
-    \caption{Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}
-    \label{tif97}
+    \includegraphics[width=1\textwidth]{tifs/tif127.png}
+    \caption{Evolución de perdida por entrenamiento de modelos entrenados y propuesto.}
+    \label{tif127}
 \end{figure}
+
+\begin{figure}[H]
+	\centering
+    \includegraphics[width=1\textwidth]{tifs/tif128.png}
+    \caption{Evolución de perdida por validación de modelos entrenados y propuesto.}
+    \label{tif128}
+\end{figure}
+
+La evolución de perdida por entrenamiento y validación de cada modelo CNN que se entreno son mostrados en las gráficas \ref{tif129}, \ref{tif130}, \ref{tif131} y \ref{tif132}.
+
+\begin{figure}[H]
+      \begin{center}
+      	\subfigure[Evolución de perdida por entrenamiento vs validación de modelo UNET.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif129.png}
+            \label{tif129}}
+        \subfigure[Evolución de perdida por entrenamiento vs validación de modelo FCN32s.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif130.png}
+            \label{tif130}}
+        \subfigure[Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif131.png}
+            \label{tif131}}
+        \caption{Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}
+        \label{tif129130131}
+      \end{center}
+\end{figure}
+
+\begin{figure}[H]
+      \begin{center}
+		\subfigure[Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif132.png}
+            \label{tif132}}        
+        \caption{Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}
+        \label{tif132}
+      \end{center}
+\end{figure}
+
+Los valores de perdida por entrenamiento y validación, ademas de el tiempo de entrenamiento de cada modelo usado ademas del propuesto son mostrados en la tabla \ref{resultadoscomparacionGTX1070}
+
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{ p{1.8cm}  p{1.5cm}  p{1.5cm}  p{2.2cm}  p{2.4cm} }
+\hline
+Resultados & UNet & FCN32s & Multires-CNN & Multires-CNN Modified\\	
+\hline
+Perdida por entrenamiento(Loss train) & 0.000451  & 0.000266 & 0.001404 & 0.00024 \\
+\hline
+Perdida por validación (Loss val) 	  & 0.000243 & 0.000275 & 0.001263 & 0.000263 \\
+\hline
+Tiempo de entrenamiento (HH:MM:SS)    & 1:04:22 & 00:40:43 & 00:21:36 & 00:51:05 \\
+\hline
+\end{tabular}
+\caption{Resultados del entrenamiento de redes para comparación}
+\label{resultadoscomparacionGTX1070}
+\end{center}
+\end{table}
+
+Las inferencias realizadas usando los modelos entrenados con la tarjeta gráfica usada para esta prueba se muestran en las imágenes de la figura \ref{}, en las cuales se aprecia que aunque se consigue reducir el ruido cuasi/periódico de las representaciones 2D de objetos, muestran objetos con perdidas de información de detalles.
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Objeto 3D obtenido con UNET usando GPU GTX 1070.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif133.png}
+            \label{tif133}}
+        \subfigure[Objeto 3D obtenido con FCN32s usando GPU GTX 1070.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif134.png}
+            \label{tif134}}
+        \subfigure[Objeto 3D obtenido con Multiresolution-CNN usando GPU GTX 1070.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif135.png}
+            \label{tif135}}
+        \subfigure[Objeto 3D obtenido con Multiresolution-CNN Modified usando GPU GTX 1070.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif136.png}
+            \label{tif136}}
+        \subfigure[Objeto 3D original con ruido cuasi/periódico.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif89.png}
+            \label{tif89}}
+        \caption{Representación 2D de objetos 3D obtenidos con diferentes arquitecturas de CNN y representación 2D original con ruido.}
+        \label{tif13313413513689}
+      \end{center}
+\end{figure}
+
+La figura \ref{tif13713813914094} muestra las reconstrucciones 3D de los objetos inferidos por cada modelo entrenado y mostrados en la figura \ref{tif13313413513689}.
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Objeto 3D obtenido con UNET.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif137.png}
+            \label{tif137}}
+        \subfigure[Objeto 3D obtenido con FCN32s.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif138.png}
+            \label{tif138}}
+		\subfigure[Objeto 3D obtenido con Multiresolution-CNN.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif139.png}
+            \label{tif139}}        
+        \subfigure[Objeto 3D obtenido con Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif140.png}
+            \label{tif140}}
+        \subfigure[Objeto 3D original con ruido cuasi/periódico obtenido con PSP.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif94.png}
+            \label{tif94}}
+        \caption{Reconstrucción de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}
+        \label{tif13713813914094}
+      \end{center}
+\end{figure}
+
+Para comparación se usa un objeto simétrico para efectuar mediciones y obtener las métricas cuantitativas. El objeto usado se muestra en la figura \ref{}.
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Objeto 3D obtenido con UNET.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif141.png}
+            \label{tif141}}
+        \subfigure[Objeto 3D obtenido con FCN32s.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif142.png}
+            \label{tif142}}
+		\subfigure[Objeto 3D obtenido con Multiresolution-CNN.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif143.png}
+            \label{tif143}}        
+        \subfigure[Objeto 3D obtenido con Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif144.png}
+            \label{tif144}}
+        \subfigure[Objeto 3D original con ruido cuasi/periódico obtenido con PSP.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif116.png}
+            \label{tif116}}
+        \subfigure[Objeto 3D original.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif117.png}
+            \label{tif117}}
+        \caption{Representación 2D de objeto 3D obtenido con diferentes modelos de CNN y objeto original reconstruido con PSP.}
+        \label{tif141142143144116117}
+      \end{center}
+\end{figure}
+
+El análisis del perfil de cada objeto inferido por cada modelo entrenado muestra una reconstrucción suave y cercana al objeto original en el caso del modelo de arquitectura propuesto, como puede observarse en la gráfica de la figura \ref{tif145}.
+
+
+\begin{figure}[H]
+	\centering
+    \includegraphics[width=1\textwidth]{tifs/tif145.png}
+    \caption{Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}
+    \label{tif145}
+\end{figure}
+
+Asimismo, los objetos 3D reconstruidos a partir de dicha inferencia producida por cada modelo entrenado muestra la similitud de los objetos reconstruidos comparados con el objeto 3D original, como se muestra en las imágenes de la figura \ref{}, para los cuales se ha realizado un escalamiento\cite{Alfa:Mont} de los objetos 3D inferidos para realizar comparación con el objeto original.
+
+\begin{figure}[H]
+      \begin{center}
+      	\subfigure[Objeto 3D obtenido con UNET.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif148.png}
+            \label{tif148}}
+        \subfigure[Objeto 3D obtenido con FCN32s.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif149.png}
+            \label{tif149}}
+        \subfigure[Objeto 3D obtenido con Multiresolution-CNN.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif150.png}
+            \label{tif150}}
+		\subfigure[Objeto 3D obtenido con Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif151.png}
+            \label{tif151}}        
+        \subfigure[Objeto 3D original con ruido cuasi/periódico.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif146.png}
+            \label{tif146}}
+        \subfigure[Objeto 3D Original.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif147.png}
+            \label{tif147}}
+        \caption{Reconstrucciones de objeto 3D obtenido con diferentes arquitecturas de CNN, objeto 3D original con ruido y objeto 3D original.}
+        \label{tif98100102104106}
+      \end{center}
+\end{figure}
+
+
+
+
 
 \section{CONCLUSIONES Y TRABAJO FUTURO}
 \subsection{Conclusiones}

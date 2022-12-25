@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.15)  24 DEC 2022 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.15)  24 DEC 2022 18:11
 entering extended mode
 **./TesisByOAEB.tex
 (TesisByOAEB.tex
@@ -783,6 +783,33 @@ LaTeX Warning: Label `sub@tif65' multiply defined.
 
 LaTeX Warning: Label `tif125' multiply defined.
 
+
+LaTeX Warning: Label `tif132' multiply defined.
+
+
+LaTeX Warning: Label `tif89' multiply defined.
+
+
+LaTeX Warning: Label `sub@tif89' multiply defined.
+
+
+LaTeX Warning: Label `tif94' multiply defined.
+
+
+LaTeX Warning: Label `sub@tif94' multiply defined.
+
+
+LaTeX Warning: Label `tif116' multiply defined.
+
+
+LaTeX Warning: Label `sub@tif116' multiply defined.
+
+
+LaTeX Warning: Label `tif117' multiply defined.
+
+
+LaTeX Warning: Label `sub@tif117' multiply defined.
+
 )
 \openout1 = `TesisByOAEB.aux'.
 
@@ -1386,98 +1413,98 @@ Package pdftex.def Info: tifs/tif58.png  used on input line 902.
 <tifs/tif59.png, id=262, 513.92pt x 513.92pt>
 File: tifs/tif59.png Graphic file (type png)
 <use tifs/tif59.png>
-Package pdftex.def Info: tifs/tif59.png  used on input line 920.
+Package pdftex.def Info: tifs/tif59.png  used on input line 919.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 920--920
+Underfull \hbox (badness 10000) in paragraph at lines 919--919
 []\OT1/jkp/m/n/8 (a) Ima-gen con
  []
 
 <tifs/tif64.png, id=263, 513.92pt x 513.92pt>
 File: tifs/tif64.png Graphic file (type png)
 <use tifs/tif64.png>
-Package pdftex.def Info: tifs/tif64.png  used on input line 923.
+Package pdftex.def Info: tifs/tif64.png  used on input line 922.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 
-Underfull \hbox (badness 2671) in paragraph at lines 923--923
+Underfull \hbox (badness 2671) in paragraph at lines 922--922
 []\OT1/jkp/m/n/8 (b) Ima-gen fil-tra-
  []
 
 <tifs/tif60.png, id=264, 513.92pt x 513.92pt>
 File: tifs/tif60.png Graphic file (type png)
 <use tifs/tif60.png>
-Package pdftex.def Info: tifs/tif60.png  used on input line 926.
+Package pdftex.def Info: tifs/tif60.png  used on input line 925.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 <tifs/tif65.png, id=265, 513.92pt x 513.92pt>
 File: tifs/tif65.png Graphic file (type png)
 <use tifs/tif65.png>
-Package pdftex.def Info: tifs/tif65.png  used on input line 929.
+Package pdftex.def Info: tifs/tif65.png  used on input line 928.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 
-Underfull \hbox (badness 2293) in paragraph at lines 929--929
+Underfull \hbox (badness 2293) in paragraph at lines 928--928
 []\OT1/jkp/m/n/8 (d) Ima-gen fil-tra-
  []
 
 <tifs/tif61.png, id=266, 513.92pt x 513.92pt>
 File: tifs/tif61.png Graphic file (type png)
 <use tifs/tif61.png>
-Package pdftex.def Info: tifs/tif61.png  used on input line 932.
+Package pdftex.def Info: tifs/tif61.png  used on input line 931.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 <tifs/tif66.png, id=267, 513.92pt x 513.92pt>
 File: tifs/tif66.png Graphic file (type png)
 <use tifs/tif66.png>
-Package pdftex.def Info: tifs/tif66.png  used on input line 935.
+Package pdftex.def Info: tifs/tif66.png  used on input line 934.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 <tifs/tif62.png, id=268, 513.92pt x 513.92pt>
 File: tifs/tif62.png Graphic file (type png)
 <use tifs/tif62.png>
-Package pdftex.def Info: tifs/tif62.png  used on input line 938.
+Package pdftex.def Info: tifs/tif62.png  used on input line 937.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 938--938
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
 []\OT1/jkp/m/n/8 (g) Ima-gen con
  []
 
 <tifs/tif67.png, id=269, 513.92pt x 513.92pt>
 File: tifs/tif67.png Graphic file (type png)
 <use tifs/tif67.png>
-Package pdftex.def Info: tifs/tif67.png  used on input line 941.
+Package pdftex.def Info: tifs/tif67.png  used on input line 940.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 
-Underfull \hbox (badness 2418) in paragraph at lines 941--941
+Underfull \hbox (badness 2418) in paragraph at lines 940--940
 []\OT1/jkp/m/n/8 (h) Ima-gen fil-tra-
  []
 
 <tifs/tif63.png, id=270, 513.92pt x 513.92pt>
 File: tifs/tif63.png Graphic file (type png)
 <use tifs/tif63.png>
-Package pdftex.def Info: tifs/tif63.png  used on input line 944.
+Package pdftex.def Info: tifs/tif63.png  used on input line 943.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 <tifs/tif68.png, id=271, 513.92pt x 513.92pt>
 File: tifs/tif68.png Graphic file (type png)
 <use tifs/tif68.png>
-Package pdftex.def Info: tifs/tif68.png  used on input line 947.
+Package pdftex.def Info: tifs/tif68.png  used on input line 946.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 <tifs/tif69.png, id=272, 513.92pt x 513.92pt>
 File: tifs/tif69.png Graphic file (type png)
 <use tifs/tif69.png>
-Package pdftex.def Info: tifs/tif69.png  used on input line 950.
+Package pdftex.def Info: tifs/tif69.png  used on input line 949.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 950--950
+Underfull \hbox (badness 10000) in paragraph at lines 949--949
 []\OT1/jkp/m/n/8 (k) Ima-gen con
  []
 
 <tifs/tif70.png, id=273, 513.92pt x 513.92pt>
 File: tifs/tif70.png Graphic file (type png)
 <use tifs/tif70.png>
-Package pdftex.def Info: tifs/tif70.png  used on input line 953.
+Package pdftex.def Info: tifs/tif70.png  used on input line 952.
 (pdftex.def)             Requested size: 62.59306pt x 62.59306pt.
 [42]
 <tifs/tif71.png, id=277, 832.5504pt x 393.8715pt>
 File: tifs/tif71.png Graphic file (type png)
 <use tifs/tif71.png>
-Package pdftex.def Info: tifs/tif71.png  used on input line 963.
+Package pdftex.def Info: tifs/tif71.png  used on input line 962.
 (pdftex.def)             Requested size: 341.4368pt x 142.2624pt.
  [43 <./tifs/tif59.png (PNG copy)> <./tifs/tif64.png (PNG copy)> <./tifs/tif60.
 png (PNG copy)> <./tifs/tif65.png (PNG copy)> <./tifs/tif61.png (PNG copy)> <./
@@ -1487,243 +1514,243 @@ tifs/tif66.png (PNG copy)> <./tifs/tif62.png (PNG copy)> <./tifs/tif67.png (PNG
 <tifs/tif79.png, id=283, 612.2875pt x 384.43625pt>
 File: tifs/tif79.png Graphic file (type png)
 <use tifs/tif79.png>
-Package pdftex.def Info: tifs/tif79.png  used on input line 981.
+Package pdftex.def Info: tifs/tif79.png  used on input line 980.
 (pdftex.def)             Requested size: 155.24895pt x 97.4756pt.
 <tifs/tif80.png, id=284, 609.27625pt x 381.425pt>
 File: tifs/tif80.png Graphic file (type png)
 <use tifs/tif80.png>
-Package pdftex.def Info: tifs/tif80.png  used on input line 984.
+Package pdftex.def Info: tifs/tif80.png  used on input line 983.
 (pdftex.def)             Requested size: 155.24895pt x 97.18933pt.
 <tifs/tif82.png, id=285, 362.3136pt x 276.5532pt>
 File: tifs/tif82.png Graphic file (type png)
 <use tifs/tif82.png>
-Package pdftex.def Info: tifs/tif82.png  used on input line 996.
+Package pdftex.def Info: tifs/tif82.png  used on input line 995.
 (pdftex.def)             Requested size: 103.50105pt x 78.99992pt.
 <tifs/tif83.png, id=286, 362.3136pt x 276.5532pt>
 File: tifs/tif83.png Graphic file (type png)
 <use tifs/tif83.png>
-Package pdftex.def Info: tifs/tif83.png  used on input line 999.
+Package pdftex.def Info: tifs/tif83.png  used on input line 998.
 (pdftex.def)             Requested size: 103.50105pt x 78.99992pt.
 <tifs/tif81.png, id=287, 362.3136pt x 276.5532pt>
 File: tifs/tif81.png Graphic file (type png)
 <use tifs/tif81.png>
-Package pdftex.def Info: tifs/tif81.png  used on input line 1002.
+Package pdftex.def Info: tifs/tif81.png  used on input line 1001.
 (pdftex.def)             Requested size: 103.50105pt x 78.99992pt.
 
 [44 <./tifs/tif79.png> <./tifs/tif80.png>]
 <tifs/tif84.png, id=293, 924.0924pt x 517.4532pt>
 File: tifs/tif84.png Graphic file (type png)
 <use tifs/tif84.png>
-Package pdftex.def Info: tifs/tif84.png  used on input line 1012.
+Package pdftex.def Info: tifs/tif84.png  used on input line 1011.
 (pdftex.def)             Requested size: 345.0pt x 193.18384pt.
  [45 <./tifs/tif82.png (PNG copy)> <./tifs/tif83.png (PNG copy)> <./tifs/tif81.
 png (PNG copy)> <./tifs/tif84.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
 []|\OT1/jkp/m/n/10 Multires-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1026
 []|\OT1/jkp/m/n/10 Multires-CNN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
 \OT1/jkp/m/n/10 lote(batch-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 []|\OT1/jkp/m/n/10 Pesos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 ini-cia-les
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 (weights
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 []|\OT1/jkp/m/n/10 Aleatorio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 Gaus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 siano
  []
 
 
-Overfull \hbox (8.1008pt too wide) in paragraph at lines 1030--1030
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 (Mean=0.0,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 []|\OT1/jkp/m/n/10 Aleatorio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 Gaus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 siano
  []
 
 
-Overfull \hbox (8.1008pt too wide) in paragraph at lines 1030--1030
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 (Mean=0.0,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 []|\OT1/jkp/m/n/10 Aleatorio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 Gaus-siano
  []
 
 
-Overfull \hbox (2.41034pt too wide) in paragraph at lines 1030--1030
+Overfull \hbox (2.41034pt too wide) in paragraph at lines 1029--1029
 \OT1/jkp/m/n/10 (Mean=0.0,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
 []|\OT1/jkp/m/n/10 Aleatorio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
 \OT1/jkp/m/n/10 Gaus-siano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
 \OT1/jkp/m/n/10 (Mean=0.0,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 []|\OT1/jkp/m/n/10 Tasa de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 \OT1/jkp/m/n/10 apren-di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 \OT1/jkp/m/n/10 za-je(rate
  []
 
 
-Overfull \hbox (5.92488pt too wide) in paragraph at lines 1036--1036
+Overfull \hbox (5.92488pt too wide) in paragraph at lines 1035--1035
 []|\OT1/jkp/m/n/10 Optimizador| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 []|\OT1/jkp/m/n/10 Plan de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 \OT1/jkp/m/n/10 en-tre-na-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 \OT1/jkp/m/n/10 mien-to
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 1040--1040
+Underfull \hbox (badness 4416) in paragraph at lines 1039--1039
 \OT1/jkp/m/n/10 (train, val,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 []|\OT1/jkp/m/n/10 70$ $%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 \OT1/jkp/m/n/10 10$ $%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 []|\OT1/jkp/m/n/10 70$ $%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
 \OT1/jkp/m/n/10 10$ $%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
 []|\OT1/jkp/m/n/10 70$ $%, 10$ $%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
 \OT1/jkp/m/n/10 im[]age-nes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
 \OT1/jkp/m/n/10 (Width,
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 1042--1042
+Underfull \hbox (badness 5203) in paragraph at lines 1041--1041
 []|$\OT1/jkp/m/n/10 512 \OMS/jkp/m/n/10  \OT1/jkp/m/n/10 512$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
 []|\OT1/jkp/m/n/10 Cantidad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
 \OT1/jkp/m/n/10 de im[]age-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
 []|\OT1/jkp/m/n/10 Cantidad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
 \OT1/jkp/m/n/10 de im[]age-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
 []|\OT1/jkp/m/n/10 Cantidad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1047
 \OT1/jkp/m/n/10 de im[]age-
  []
 
@@ -1731,40 +1758,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
 <tifs/tif96.png, id=303, 832.7913pt x 380.3811pt>
 File: tifs/tif96.png Graphic file (type png)
 <use tifs/tif96.png>
-Package pdftex.def Info: tifs/tif96.png  used on input line 1063.
+Package pdftex.def Info: tifs/tif96.png  used on input line 1062.
 (pdftex.def)             Requested size: 345.0pt x 157.5766pt.
 <tifs/tif95.png, id=304, 832.5504pt x 380.3811pt>
 File: tifs/tif95.png Graphic file (type png)
 <use tifs/tif95.png>
-Package pdftex.def Info: tifs/tif95.png  used on input line 1066.
+Package pdftex.def Info: tifs/tif95.png  used on input line 1065.
 (pdftex.def)             Requested size: 345.0pt x 157.62885pt.
 
-Overfull \hbox (5.09998pt too wide) in paragraph at lines 1063--1067
+Overfull \hbox (5.09998pt too wide) in paragraph at lines 1062--1066
  [] 
  []
 
 
-Overfull \hbox (5.09998pt too wide) in paragraph at lines 1063--1067
+Overfull \hbox (5.09998pt too wide) in paragraph at lines 1062--1066
  [] 
  []
 
 <tifs/tif122.png, id=305, 832.3095pt x 393.8715pt>
 File: tifs/tif122.png Graphic file (type png)
 <use tifs/tif122.png>
-Package pdftex.def Info: tifs/tif122.png  used on input line 1076.
+Package pdftex.def Info: tifs/tif122.png  used on input line 1075.
 (pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
 <tifs/tif123.png, id=306, 832.3095pt x 393.8715pt>
 File: tifs/tif123.png Graphic file (type png)
 <use tifs/tif123.png>
-Package pdftex.def Info: tifs/tif123.png  used on input line 1079.
+Package pdftex.def Info: tifs/tif123.png  used on input line 1078.
 (pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
 <tifs/tif124.png, id=307, 832.5504pt x 393.8715pt>
 File: tifs/tif124.png Graphic file (type png)
 <use tifs/tif124.png>
-Package pdftex.def Info: tifs/tif124.png  used on input line 1082.
+Package pdftex.def Info: tifs/tif124.png  used on input line 1081.
 (pdftex.def)             Requested size: 327.74895pt x 155.05766pt.
 
-Underfull \hbox (badness 1448) in paragraph at lines 1082--1082
+Underfull \hbox (badness 1448) in paragraph at lines 1081--1081
 []\OT1/jkp/m/n/8 (c) Evo-lu-ci[]on de per-di-da por en-tre-na-mien-to vs va-li-
 da-ci[]on de mo-de-lo Multiresolution-
  []
@@ -1777,50 +1804,65 @@ Overfull \vbox (26.38211pt too high) has occurred while \output is active []
 <tifs/tif125.png, id=320, 832.5504pt x 393.8715pt>
 File: tifs/tif125.png Graphic file (type png)
 <use tifs/tif125.png>
-Package pdftex.def Info: tifs/tif125.png  used on input line 1106.
+Package pdftex.def Info: tifs/tif125.png  used on input line 1105.
 (pdftex.def)             Requested size: 327.74895pt x 155.05766pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
 []|\OT1/jkp/m/n/10 Multires-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1125--1126
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1125
 []|\OT1/jkp/m/n/10 Multires-CNN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1126
 []|\OT1/jkp/m/n/10 Perdida
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 1129--1129
-[]|\OT1/jkp/m/n/10 Perdida de
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1126
+\OT1/jkp/m/n/10 por en-tre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
-\OT1/jkp/m/n/10 va-li-da-ci[]on
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1126
+\OT1/jkp/m/n/10 na-mien-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1126
+\OT1/jkp/m/n/10 to(Loss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1128
+[]|\OT1/jkp/m/n/10 Perdida
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1128
+\OT1/jkp/m/n/10 ci[]on (Loss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1130
 []|\OT1/jkp/m/n/10 Tiempo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1130
 \OT1/jkp/m/n/10 de en-tre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1130
 \OT1/jkp/m/n/10 na-mien-to
  []
 
 
-Overfull \hbox (5.39488pt too wide) in paragraph at lines 1131--1131
+Overfull \hbox (5.39488pt too wide) in paragraph at lines 1130--1130
 \OT1/jkp/m/n/10 (HH:MM:SS)| 
  []
 
@@ -1828,280 +1870,601 @@ Overfull \hbox (5.39488pt too wide) in paragraph at lines 1131--1131
 <tifs/tif87.png, id=325, 389.455pt x 389.455pt>
 File: tifs/tif87.png Graphic file (type png)
 <use tifs/tif87.png>
-Package pdftex.def Info: tifs/tif87.png  used on input line 1148.
+Package pdftex.def Info: tifs/tif87.png  used on input line 1147.
 (pdftex.def)             Requested size: 103.50105pt x 103.49626pt.
 
-Underfull \hbox (badness 1917) in paragraph at lines 1148--1148
+Underfull \hbox (badness 1917) in paragraph at lines 1147--1147
 []\OT1/jkp/m/n/8 (a) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif88.png, id=326, 513.92pt x 513.92pt>
 File: tifs/tif88.png Graphic file (type png)
 <use tifs/tif88.png>
-Package pdftex.def Info: tifs/tif88.png  used on input line 1151.
+Package pdftex.def Info: tifs/tif88.png  used on input line 1150.
 (pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
 
-Underfull \hbox (badness 1668) in paragraph at lines 1151--1151
+Underfull \hbox (badness 1668) in paragraph at lines 1150--1150
 []\OT1/jkp/m/n/8 (b) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif86.png, id=327, 256.96pt x 256.96pt>
 File: tifs/tif86.png Graphic file (type png)
 <use tifs/tif86.png>
-Package pdftex.def Info: tifs/tif86.png  used on input line 1154.
+Package pdftex.def Info: tifs/tif86.png  used on input line 1153.
 (pdftex.def)             Requested size: 103.50105pt x 103.4997pt.
 
-Underfull \hbox (badness 2073) in paragraph at lines 1154--1154
+Underfull \hbox (badness 2073) in paragraph at lines 1153--1153
 []\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif85.png, id=328, 513.92pt x 513.92pt>
 File: tifs/tif85.png Graphic file (type png)
 <use tifs/tif85.png>
-Package pdftex.def Info: tifs/tif85.png  used on input line 1157.
+Package pdftex.def Info: tifs/tif85.png  used on input line 1156.
 (pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
 
-Underfull \hbox (badness 1546) in paragraph at lines 1157--1157
+Underfull \hbox (badness 1546) in paragraph at lines 1156--1156
 []\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1156
 \OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
  []
 
 <tifs/tif89.png, id=329, 513.92pt x 513.92pt>
 File: tifs/tif89.png Graphic file (type png)
 <use tifs/tif89.png>
-Package pdftex.def Info: tifs/tif89.png  used on input line 1160.
+Package pdftex.def Info: tifs/tif89.png  used on input line 1159.
 (pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
 <tifs/tif90.png, id=330, 360.3864pt x 290.5254pt>
 File: tifs/tif90.png Graphic file (type png)
 <use tifs/tif90.png>
-Package pdftex.def Info: tifs/tif90.png  used on input line 1176.
+Package pdftex.def Info: tifs/tif90.png  used on input line 1175.
 (pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
 <tifs/tif93.png, id=331, 360.3864pt x 290.5254pt>
 File: tifs/tif93.png Graphic file (type png)
 <use tifs/tif93.png>
-Package pdftex.def Info: tifs/tif93.png  used on input line 1179.
+Package pdftex.def Info: tifs/tif93.png  used on input line 1178.
 (pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
 <tifs/tif92.png, id=332, 360.3864pt x 290.5254pt>
 File: tifs/tif92.png Graphic file (type png)
 <use tifs/tif92.png>
-Package pdftex.def Info: tifs/tif92.png  used on input line 1182.
+Package pdftex.def Info: tifs/tif92.png  used on input line 1181.
 (pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1182
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1181
 []\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif91.png, id=333, 360.3864pt x 290.5254pt>
 File: tifs/tif91.png Graphic file (type png)
 <use tifs/tif91.png>
-Package pdftex.def Info: tifs/tif91.png  used on input line 1185.
+Package pdftex.def Info: tifs/tif91.png  used on input line 1184.
 (pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1185--1185
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
 []\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif94.png, id=334, 360.3864pt x 290.5254pt>
 File: tifs/tif94.png Graphic file (type png)
 <use tifs/tif94.png>
-Package pdftex.def Info: tifs/tif94.png  used on input line 1188.
+Package pdftex.def Info: tifs/tif94.png  used on input line 1187.
 (pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
 [51 <./tifs/tif87.png (PNG copy)> <./tifs/tif88.png (PNG copy)> <./tifs/tif86.p
 ng (PNG copy)> <./tifs/tif85.png (PNG copy)> <./tifs/tif89.png (PNG copy)>]
-<tifs/tif112.png, id=338, 153.2124pt x 153.2124pt>
+[52 <./tifs/tif90.png (PNG copy)> <./tifs/tif93.png (PNG copy)> <./tifs/tif92.p
+ng (PNG copy)> <./tifs/tif91.png (PNG copy)> <./tifs/tif94.png (PNG copy)>]
+<tifs/tif112.png, id=341, 153.2124pt x 153.2124pt>
 File: tifs/tif112.png Graphic file (type png)
 <use tifs/tif112.png>
-Package pdftex.def Info: tifs/tif112.png  used on input line 1201.
-(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
-<tifs/tif113.png, id=339, 153.2124pt x 153.2124pt>
+Package pdftex.def Info: tifs/tif112.png  used on input line 1200.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 1917) in paragraph at lines 1200--1200
+[]\OT1/jkp/m/n/8 (a) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif113.png, id=342, 153.2124pt x 153.2124pt>
 File: tifs/tif113.png Graphic file (type png)
 <use tifs/tif113.png>
-Package pdftex.def Info: tifs/tif113.png  used on input line 1204.
-(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
-<tifs/tif114.png, id=340, 153.2124pt x 153.2124pt>
+Package pdftex.def Info: tifs/tif113.png  used on input line 1203.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 1668) in paragraph at lines 1203--1203
+[]\OT1/jkp/m/n/8 (b) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif114.png, id=343, 153.2124pt x 153.2124pt>
 File: tifs/tif114.png Graphic file (type png)
 <use tifs/tif114.png>
-Package pdftex.def Info: tifs/tif114.png  used on input line 1207.
-(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+Package pdftex.def Info: tifs/tif114.png  used on input line 1206.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1207--1207
+Underfull \hbox (badness 2073) in paragraph at lines 1206--1206
 []\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
  []
 
-<tifs/tif115.png, id=341, 153.2124pt x 153.2124pt>
+<tifs/tif115.png, id=344, 153.2124pt x 153.2124pt>
 File: tifs/tif115.png Graphic file (type png)
 <use tifs/tif115.png>
-Package pdftex.def Info: tifs/tif115.png  used on input line 1210.
-(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
+Package pdftex.def Info: tifs/tif115.png  used on input line 1209.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1210--1210
+Underfull \hbox (badness 1546) in paragraph at lines 1209--1209
 []\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
  []
 
-<tifs/tif116.png, id=342, 153.2124pt x 153.2124pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1209
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif116.png, id=345, 153.2124pt x 153.2124pt>
 File: tifs/tif116.png Graphic file (type png)
 <use tifs/tif116.png>
-Package pdftex.def Info: tifs/tif116.png  used on input line 1213.
-(pdftex.def)             Requested size: 137.9979pt x 138.00441pt.
-<tifs/tif117.png, id=343, 513.92pt x 513.92pt>
+Package pdftex.def Info: tifs/tif116.png  used on input line 1212.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 4454) in paragraph at lines 1212--1212
+[]\OT1/jkp/m/n/8 (e) Ob-je-to 3D ori-gi-nal con
+ []
+
+<tifs/tif117.png, id=346, 513.92pt x 513.92pt>
 File: tifs/tif117.png Graphic file (type png)
 <use tifs/tif117.png>
-Package pdftex.def Info: tifs/tif117.png  used on input line 1216.
-(pdftex.def)             Requested size: 137.9979pt x 137.99959pt.
-[52 <./tifs/tif90.png (PNG copy)> <./tifs/tif93.png (PNG copy)> <./tifs/tif92.p
-ng (PNG copy)> <./tifs/tif91.png (PNG copy)> <./tifs/tif94.png (PNG copy)>]
+Package pdftex.def Info: tifs/tif117.png  used on input line 1215.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+<tifs/tif97.png, id=347, 924.0924pt x 517.4532pt>
+File: tifs/tif97.png Graphic file (type png)
+<use tifs/tif97.png>
+Package pdftex.def Info: tifs/tif97.png  used on input line 1225.
+(pdftex.def)             Requested size: 345.0pt x 193.18384pt.
 [53 <./tifs/tif112.png (PNG copy)> <./tifs/tif113.png (PNG copy)> <./tifs/tif11
 4.png (PNG copy)> <./tifs/tif115.png (PNG copy)> <./tifs/tif116.png (PNG copy)>
  <./tifs/tif117.png (PNG copy)>]
-<tifs/tif97.png, id=350, 924.0924pt x 517.4532pt>
-File: tifs/tif97.png Graphic file (type png)
-<use tifs/tif97.png>
-Package pdftex.def Info: tifs/tif97.png  used on input line 1226.
-(pdftex.def)             Requested size: 345.0pt x 193.18384pt.
 <tifs/tif100.png, id=351, 362.3136pt x 289.5618pt>
 File: tifs/tif100.png Graphic file (type png)
 <use tifs/tif100.png>
-Package pdftex.def Info: tifs/tif100.png  used on input line 1237.
+Package pdftex.def Info: tifs/tif100.png  used on input line 1236.
 (pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
 <tifs/tif106.png, id=352, 362.3136pt x 289.5618pt>
 File: tifs/tif106.png Graphic file (type png)
 <use tifs/tif106.png>
-Package pdftex.def Info: tifs/tif106.png  used on input line 1240.
+Package pdftex.def Info: tifs/tif106.png  used on input line 1239.
 (pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
 <tifs/tif104.png, id=353, 362.3136pt x 289.5618pt>
 File: tifs/tif104.png Graphic file (type png)
 <use tifs/tif104.png>
-Package pdftex.def Info: tifs/tif104.png  used on input line 1243.
+Package pdftex.def Info: tifs/tif104.png  used on input line 1242.
 (pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1243--1243
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
 []\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif102.png, id=354, 362.3136pt x 289.5618pt>
 File: tifs/tif102.png Graphic file (type png)
 <use tifs/tif102.png>
-Package pdftex.def Info: tifs/tif102.png  used on input line 1246.
+Package pdftex.def Info: tifs/tif102.png  used on input line 1245.
 (pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1246--1246
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1245
 []\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
  []
 
 <tifs/tif98.png, id=355, 362.3136pt x 289.5618pt>
 File: tifs/tif98.png Graphic file (type png)
 <use tifs/tif98.png>
-Package pdftex.def Info: tifs/tif98.png  used on input line 1249.
+Package pdftex.def Info: tifs/tif98.png  used on input line 1248.
 (pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
 <tifs/tif108.png, id=356, 362.3136pt x 289.5618pt>
 File: tifs/tif108.png Graphic file (type png)
 <use tifs/tif108.png>
-Package pdftex.def Info: tifs/tif108.png  used on input line 1252.
+Package pdftex.def Info: tifs/tif108.png  used on input line 1251.
 (pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
 [54 <./tifs/tif97.png (PNG copy)>] [55 <./tifs/tif100.png (PNG copy)> <./tifs/t
 if106.png (PNG copy)> <./tifs/tif104.png (PNG copy)> <./tifs/tif102.png (PNG co
 py)> <./tifs/tif98.png (PNG copy)> <./tifs/tif108.png (PNG copy)>]
-Overfull \hbox (8.1008pt too wide) in paragraph at lines 1267--1268
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1266--1267
 []|\OT1/jkp/m/n/10 MSE(Perfil)| 
  []
 
 
-Overfull \hbox (5.61792pt too wide) in paragraph at lines 1269--1269
+Overfull \hbox (5.61792pt too wide) in paragraph at lines 1268--1268
 []|\OT1/jkp/b/n/10 Multiresolution-
  []
 
 
-Overfull \hbox (2.01797pt too wide) in paragraph at lines 1272--1272
+Overfull \hbox (2.01797pt too wide) in paragraph at lines 1271--1271
 []|\OT1/jkp/m/n/10 Multiresolution-
  []
 
+<tifs/tif127.png, id=364, 832.7913pt x 380.3811pt>
+File: tifs/tif127.png Graphic file (type png)
+<use tifs/tif127.png>
+Package pdftex.def Info: tifs/tif127.png  used on input line 1308.
+(pdftex.def)             Requested size: 345.0pt x 157.5766pt.
+[56]
+<tifs/tif128.png, id=368, 832.3095pt x 380.3811pt>
+File: tifs/tif128.png Graphic file (type png)
+<use tifs/tif128.png>
+Package pdftex.def Info: tifs/tif128.png  used on input line 1315.
+(pdftex.def)             Requested size: 345.0pt x 157.67528pt.
+<tifs/tif129.png, id=369, 832.3095pt x 393.8715pt>
+File: tifs/tif129.png Graphic file (type png)
+<use tifs/tif129.png>
+Package pdftex.def Info: tifs/tif129.png  used on input line 1326.
+(pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
+<tifs/tif130.png, id=370, 832.3095pt x 393.8715pt>
+File: tifs/tif130.png Graphic file (type png)
+<use tifs/tif130.png>
+Package pdftex.def Info: tifs/tif130.png  used on input line 1329.
+(pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
+<tifs/tif131.png, id=371, 832.3095pt x 393.8715pt>
+File: tifs/tif131.png Graphic file (type png)
+<use tifs/tif131.png>
+Package pdftex.def Info: tifs/tif131.png  used on input line 1332.
+(pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
+ [57 <./tifs/tif127.png> <./tifs/tif128.png>]
+Overfull \vbox (17.09619pt too high) has occurred while \output is active []
 
-LaTeX Warning: Reference `' on page 56 undefined on input line 1305.
+
+[58 <./tifs/tif129.png> <./tifs/tif130.png> <./tifs/tif131.png>]
+<tifs/tif132.png, id=383, 832.5504pt x 393.8715pt>
+File: tifs/tif132.png Graphic file (type png)
+<use tifs/tif132.png>
+Package pdftex.def Info: tifs/tif132.png  used on input line 1342.
+(pdftex.def)             Requested size: 327.74895pt x 155.05766pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1354
+[]|\OT1/jkp/m/n/10 Multires-
+ []
 
 
-LaTeX Warning: Reference `' on page 56 undefined on input line 1305.
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1355
+[]|\OT1/jkp/m/n/10 Multires-CNN
+ []
 
-File: tifs/tif97.png Graphic file (type png)
-<use tifs/tif97.png>
-Package pdftex.def Info: tifs/tif97.png  used on input line 1309.
-(pdftex.def)             Requested size: 345.0pt x 193.18384pt.
-[56] [57] [58] [59]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
+[]|\OT1/jkp/m/n/10 Perdida
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
+\OT1/jkp/m/n/10 por en-tre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
+\OT1/jkp/m/n/10 na-mien-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
+\OT1/jkp/m/n/10 to(Loss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1358
+[]|\OT1/jkp/m/n/10 Perdida
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1358
+\OT1/jkp/m/n/10 ci[]on (Loss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1360--1360
+[]|\OT1/jkp/m/n/10 Tiempo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1360--1360
+\OT1/jkp/m/n/10 de en-tre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1360--1360
+\OT1/jkp/m/n/10 na-mien-to
+ []
+
+
+Overfull \hbox (5.39488pt too wide) in paragraph at lines 1360--1360
+\OT1/jkp/m/n/10 (HH:MM:SS)| 
+ []
+
+
+LaTeX Warning: Reference `' on page 59 undefined on input line 1368.
+
+[59 <./tifs/tif132.png>]
+<tifs/tif133.png, id=388, 389.455pt x 389.455pt>
+File: tifs/tif133.png Graphic file (type png)
+<use tifs/tif133.png>
+Package pdftex.def Info: tifs/tif133.png  used on input line 1374.
+(pdftex.def)             Requested size: 103.50105pt x 103.49626pt.
+
+Underfull \hbox (badness 1917) in paragraph at lines 1374--1374
+[]\OT1/jkp/m/n/8 (a) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif134.png, id=389, 513.92pt x 513.92pt>
+File: tifs/tif134.png Graphic file (type png)
+<use tifs/tif134.png>
+Package pdftex.def Info: tifs/tif134.png  used on input line 1377.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+
+Underfull \hbox (badness 1668) in paragraph at lines 1377--1377
+[]\OT1/jkp/m/n/8 (b) Ob-je-to 3D ob-te-ni-do con
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 1377--1377
+\OT1/jkp/m/n/8 FCN32s usan-do GPU GTX
+ []
+
+<tifs/tif135.png, id=390, 256.96pt x 256.96pt>
+File: tifs/tif135.png Graphic file (type png)
+<use tifs/tif135.png>
+Package pdftex.def Info: tifs/tif135.png  used on input line 1380.
+(pdftex.def)             Requested size: 103.50105pt x 103.4997pt.
+
+Underfull \hbox (badness 2073) in paragraph at lines 1380--1380
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 1380--1380
+\OT1/jkp/m/n/8 Multiresolution-CNN usan-do
+ []
+
+<tifs/tif136.png, id=391, 513.92pt x 513.92pt>
+File: tifs/tif136.png Graphic file (type png)
+<use tifs/tif136.png>
+Package pdftex.def Info: tifs/tif136.png  used on input line 1383.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+
+Underfull \hbox (badness 1546) in paragraph at lines 1383--1383
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+File: tifs/tif89.png Graphic file (type png)
+<use tifs/tif89.png>
+Package pdftex.def Info: tifs/tif89.png  used on input line 1386.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+<tifs/tif137.png, id=392, 360.3864pt x 290.0436pt>
+File: tifs/tif137.png Graphic file (type png)
+<use tifs/tif137.png>
+Package pdftex.def Info: tifs/tif137.png  used on input line 1398.
+(pdftex.def)             Requested size: 137.9979pt x 111.06302pt.
+<tifs/tif138.png, id=393, 360.3864pt x 290.0436pt>
+File: tifs/tif138.png Graphic file (type png)
+<use tifs/tif138.png>
+Package pdftex.def Info: tifs/tif138.png  used on input line 1401.
+(pdftex.def)             Requested size: 137.9979pt x 111.06302pt.
+<tifs/tif139.png, id=394, 360.3864pt x 290.0436pt>
+File: tifs/tif139.png Graphic file (type png)
+<use tifs/tif139.png>
+Package pdftex.def Info: tifs/tif139.png  used on input line 1404.
+(pdftex.def)             Requested size: 137.9979pt x 111.06302pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif140.png, id=395, 360.3864pt x 290.0436pt>
+File: tifs/tif140.png Graphic file (type png)
+<use tifs/tif140.png>
+Package pdftex.def Info: tifs/tif140.png  used on input line 1407.
+(pdftex.def)             Requested size: 137.9979pt x 111.06302pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1407
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+File: tifs/tif94.png Graphic file (type png)
+<use tifs/tif94.png>
+Package pdftex.def Info: tifs/tif94.png  used on input line 1410.
+(pdftex.def)             Requested size: 137.9979pt x 111.24751pt.
+[60 <./tifs/tif133.png (PNG copy)> <./tifs/tif134.png (PNG copy)> <./tifs/tif13
+5.png (PNG copy)> <./tifs/tif136.png (PNG copy)>]
+
+LaTeX Warning: Reference `' on page 61 undefined on input line 1416.
+
+<tifs/tif141.png, id=399, 153.2124pt x 153.2124pt>
+File: tifs/tif141.png Graphic file (type png)
+<use tifs/tif141.png>
+Package pdftex.def Info: tifs/tif141.png  used on input line 1422.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 1917) in paragraph at lines 1422--1422
+[]\OT1/jkp/m/n/8 (a) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif142.png, id=400, 153.2124pt x 153.2124pt>
+File: tifs/tif142.png Graphic file (type png)
+<use tifs/tif142.png>
+Package pdftex.def Info: tifs/tif142.png  used on input line 1425.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 1668) in paragraph at lines 1425--1425
+[]\OT1/jkp/m/n/8 (b) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif143.png, id=401, 153.2124pt x 153.2124pt>
+File: tifs/tif143.png Graphic file (type png)
+<use tifs/tif143.png>
+Package pdftex.def Info: tifs/tif143.png  used on input line 1428.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 2073) in paragraph at lines 1428--1428
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif144.png, id=402, 153.2124pt x 153.2124pt>
+File: tifs/tif144.png Graphic file (type png)
+<use tifs/tif144.png>
+Package pdftex.def Info: tifs/tif144.png  used on input line 1431.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 1546) in paragraph at lines 1431--1431
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1431
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+File: tifs/tif116.png Graphic file (type png)
+<use tifs/tif116.png>
+Package pdftex.def Info: tifs/tif116.png  used on input line 1434.
+(pdftex.def)             Requested size: 103.50105pt x 103.50038pt.
+
+Underfull \hbox (badness 4454) in paragraph at lines 1434--1434
+[]\OT1/jkp/m/n/8 (e) Ob-je-to 3D ori-gi-nal con
+ []
+
+File: tifs/tif117.png Graphic file (type png)
+<use tifs/tif117.png>
+Package pdftex.def Info: tifs/tif117.png  used on input line 1437.
+(pdftex.def)             Requested size: 103.50105pt x 103.49577pt.
+[61 <./tifs/tif137.png (PNG copy)> <./tifs/tif138.png (PNG copy)> <./tifs/tif13
+9.png (PNG copy)> <./tifs/tif140.png (PNG copy)>]
+<tifs/tif145.png, id=407, 915.42pt x 517.4532pt>
+File: tifs/tif145.png Graphic file (type png)
+<use tifs/tif145.png>
+Package pdftex.def Info: tifs/tif145.png  used on input line 1448.
+(pdftex.def)             Requested size: 345.0pt x 195.01563pt.
+ [62 <./tifs/tif141.png (PNG copy)> <./tifs/tif142.png (PNG copy)> <./tifs/tif1
+43.png (PNG copy)> <./tifs/tif144.png (PNG copy)>]
+
+LaTeX Warning: Reference `' on page 63 undefined on input line 1453.
+
+<tifs/tif148.png, id=411, 362.3136pt x 289.5618pt>
+File: tifs/tif148.png Graphic file (type png)
+<use tifs/tif148.png>
+Package pdftex.def Info: tifs/tif148.png  used on input line 1459.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif149.png, id=412, 362.3136pt x 289.5618pt>
+File: tifs/tif149.png Graphic file (type png)
+<use tifs/tif149.png>
+Package pdftex.def Info: tifs/tif149.png  used on input line 1462.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif150.png, id=413, 362.3136pt x 289.5618pt>
+File: tifs/tif150.png Graphic file (type png)
+<use tifs/tif150.png>
+Package pdftex.def Info: tifs/tif150.png  used on input line 1465.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1465--1465
+[]\OT1/jkp/m/n/8 (c) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif151.png, id=414, 362.3136pt x 289.5618pt>
+File: tifs/tif151.png Graphic file (type png)
+<use tifs/tif151.png>
+Package pdftex.def Info: tifs/tif151.png  used on input line 1468.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1468--1468
+[]\OT1/jkp/m/n/8 (d) Ob-je-to 3D ob-te-ni-do con
+ []
+
+<tifs/tif146.png, id=415, 362.3136pt x 289.5618pt>
+File: tifs/tif146.png Graphic file (type png)
+<use tifs/tif146.png>
+Package pdftex.def Info: tifs/tif146.png  used on input line 1471.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif147.png, id=416, 362.3136pt x 289.5618pt>
+File: tifs/tif147.png Graphic file (type png)
+<use tifs/tif147.png>
+Package pdftex.def Info: tifs/tif147.png  used on input line 1474.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+[63 <./tifs/tif145.png (PNG copy)>] [64 <./tifs/tif148.png (PNG copy)> <./tifs/
+tif149.png (PNG copy)> <./tifs/tif150.png (PNG copy)> <./tifs/tif151.png (PNG c
+opy)> <./tifs/tif146.png (PNG copy)> <./tifs/tif147.png (PNG copy)>] [65]
+[66] [67]
 LaTeX Font Info:    Trying to load font information for OT1+jkptt on input line
- 1392.
+ 1562.
 
 (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ot1jkptt.fd
 File: ot1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for OT1/jkptt.
 )
-Underfull \hbox (badness 2772) in paragraph at lines 1401--1402
+Underfull \hbox (badness 2772) in paragraph at lines 1571--1572
 []\OT1/jkp/m/n/10 Karacan, L., Er-dem, E., & Er-dem, A.: Structure-preserving i
 ma-ge
  []
 
-[60] [61]
-Underfull \hbox (badness 3229) in paragraph at lines 1494--1495
+[68] [69]
+Underfull \hbox (badness 3229) in paragraph at lines 1664--1665
 []\OT1/jkp/m/n/10 Mart[]nez-Su[]arez, V. M., Pedraza-Ortega, J. C., Salazar-Co
 lores, S.,
  []
 
 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocolo/Di
-ploma Paper-1.pdf, id=385, 845.07718pt x 597.73312pt>
+ploma Paper-1.pdf, id=441, 845.07718pt x 597.73312pt>
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1499.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1669.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1499.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1669.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocolo/Di
-ploma Paper-1.pdf, id=388, page=1, 845.07718pt x 597.73312pt>
+ploma Paper-1.pdf, id=444, page=1, 845.07718pt x 597.73312pt>
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1669.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1669.
 (pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
-[62]
+[70]
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
-(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
-File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
-lo/Diploma Paper-1.pdf Graphic file (type pdf)
-<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
-o/Diploma Paper-1.pdf, page 1>
-Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1669.
 (pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1499.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1669.
 (pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
- [63 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1669.
+(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
+ [71 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf>] (TesisByOAEB.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -2114,10 +2477,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12838 strings out of 478864
- 239213 string characters out of 2848660
- 521214 words of memory out of 3000000
- 30453 multiletter control sequences out of 15000+600000
+ 13065 strings out of 478864
+ 243057 string characters out of 2848660
+ 523675 words of memory out of 3000000
+ 30655 multiletter control sequences out of 15000+600000
  429963 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,17n,81p,2250b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2139,9 +2502,9 @@ ers/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmn8a.pfb>
 .pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/j
 kpsy.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfon
 ts/jkpttmn8a.pfb>
-Output written on TesisByOAEB.pdf (63 pages, 14495945 bytes).
+Output written on TesisByOAEB.pdf (71 pages, 18217259 bytes).
 PDF statistics:
- 507 PDF objects out of 1000 (max. 8388607)
+ 563 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 681 words of extra memory for PDF output out of 10000 (max. 10000000)
 

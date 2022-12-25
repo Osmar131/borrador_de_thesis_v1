@@ -127,4 +127,38 @@
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{55}{}%
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{55}{}%
 \contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D Original.}}}{55}{}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}}{57}{}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Evolución de perdida por entrenamiento de modelos entrenados y propuesto.}}{57}{}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Evolución de perdida por validación de modelos entrenados y propuesto.}}{57}{}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}}{58}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo UNET.}}}{58}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo FCN32s.}}}{58}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN.}}}{58}{}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}}{59}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN Modified.}}}{59}{}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Representación 2D de objetos 3D obtenidos con diferentes arquitecturas de CNN y representación 2D original con ruido.}}{60}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET usando GPU GTX 1070.}}}{60}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s usando GPU GTX 1070.}}}{60}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN usando GPU GTX 1070.}}}{60}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified usando GPU GTX 1070.}}}{60}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{60}{}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Reconstrucción de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{61}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{61}{}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Representación 2D de objeto 3D obtenido con diferentes modelos de CNN y objeto original reconstruido con PSP.}}{62}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{62}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{62}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{62}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{62}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{62}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D original.}}}{62}{}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}}{63}{}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Reconstrucciones de objeto 3D obtenido con diferentes arquitecturas de CNN, objeto 3D original con ruido y objeto 3D original.}}{64}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{64}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{64}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{64}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{64}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{64}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D Original.}}}{64}{}%

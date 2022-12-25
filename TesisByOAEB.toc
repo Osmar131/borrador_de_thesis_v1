@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {4.3}Filtro adaptativo y filtro de suavizado visto de cerca}{40}{}%
 \contentsline {subsection}{\numberline {4.4}Entrenamiento de Red Neuronal Convolucional Profunda (Deep CNN)}{42}{}%
 \contentsline {subsection}{\numberline {4.5}Comparación con otras arquitecturas}{45}{}%
-\contentsline {section}{\numberline {5}CONCLUSIONES Y TRABAJO FUTURO}{57}{}%
-\contentsline {subsection}{\numberline {5.1}Conclusiones}{57}{}%
-\contentsline {subsection}{\numberline {5.2}Trabajo Futuro}{58}{}%
-\contentsline {section}{\numberline {6}Anexos}{62}{}%
+\contentsline {section}{\numberline {5}CONCLUSIONES Y TRABAJO FUTURO}{64}{}%
+\contentsline {subsection}{\numberline {5.1}Conclusiones}{64}{}%
+\contentsline {subsection}{\numberline {5.2}Trabajo Futuro}{66}{}%
+\contentsline {section}{\numberline {6}Anexos}{70}{}%
