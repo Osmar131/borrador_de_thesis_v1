@@ -1478,7 +1478,92 @@ Asimismo, los objetos 3D reconstruidos a partir de dicha inferencia producida po
 \end{figure}
 
 
+\subsection*{Resultados de entrenamiento usando mejores parámetros por red originales.}
 
+Los mejores parámetros se usaron obtenidos de los autores originales de cada arquitectura seleccionada, los cuales son mostrados en la tabla \ref{}, realizando adecuaciones para utilizar los parámetros acorde a la tarea de restauración de imágenes en lugar de la tarea originalmente empleada. Se hace uso de la arquitectura de cada modelo CNN únicamente.
+
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{ p{2.5cm}  p{1.5cm}  p{1.5cm}  p{1.7cm}  p{2.3cm} }
+\hline
+Parámetro & U-Net & FCN32s & Multires-CNN & Multires-CNN Modified\\	
+\hline
+Tamaño de lote (batch-size) & 4    & 8 & 8 & 8 \\
+\hline
+Pesos iniciales (weights initials) & Aleatorio Gaussiano (Mean=0.0, std=0.01)  
+								   & Pre-trained VGGNet) 
+								   & Aleatorio Gaussiano (Mean=0.0, std=0.01) 
+								   & Aleatorio Gaussiano (Mean=0.0, std=0.01) \\
+\hline
+Bias                       & 0.0  & 0.0 & 0.0 & 0.0 \\
+\hline
+Tasa de aprendizaje (rate learning) & 1e-5  & 1e-4 & 1e-4 & 1e-4 \\
+\hline
+Optimizador                & RMSprop()   & RMSprop() & Adam() & Adam() \\
+\hline
+Perdida por Entrenamiento         & MSELoss() & BCEWith
+LogitsLoss() & MSELoss() & MSELoss() \\
+\hline
+Perdida por validación         & MSELoss() & BCEWith
+LogitsLoss() & MSELoss() & MSELoss() \\
+\hline
+Plan de entrenamiento (train, val, test)& 70\%, 10\%, 20\%  & 70\%, 10\%, 20\% & 70\%, 10\%, 20\% & 70\%, 10\%, 20\% \\
+\hline
+Tamaño de imágenes (Width, Height)        & $572\times572$  pixeles & $512\times512$ pixeles & $256\times256$ pixeles & $256\times256$ pixeles \\
+\hline
+Cantidad de imágenes (Train) & 276  & 276 & 276 & 276 \\
+\hline
+Cantidad de imágenes (Val)   & 27  & 27 & 27 & 27 \\
+\hline
+Cantidad de imágenes (Test)  & 69  & 69 & 69 & 69 \\
+\hline
+\end{tabular}
+\caption{Parámetros usados durante el entrenamiento de redes para comparación}
+\label{Parametroscomparacion}
+\end{center}
+\end{table}
+
+La evolución por entrenamiento y validación usando esto parámetros son mostrados en las graficas \ref{} y \ref{} mostrados en conjunto para los 4 modelos CNN entrenados, mientras que las gráficas de las figuras \ref{} y \ref{} muestran la evolución por cada modelo CNN entrenado.
+
+\begin{figure}[H]
+	\centering
+    \includegraphics[width=1\textwidth]{tifs/tif152.png}
+    \caption{Evolución de la perdida por entrenamiento(\textbf{Train Loss)}.}
+    \label{tif152}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+    \includegraphics[width=1\textwidth]{tifs/tif153.png}
+    \caption{Evolución de la perdida por validación(\textbf{Val Loss)}.}
+    \label{tif153}
+\end{figure}
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Evolución de perdida entrenando cnn U-Net.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif154.png}
+            \label{tif154}}
+        \subfigure[Evolución de perdida entrenando cnn FCN32s.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif155.png}
+            \label{tif155}}
+        \subfigure[Evolución de perdida entrenando cnn Multires-CNN.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif156.png}
+            \label{tif156}}
+        \caption{Evolución de perdida por entrenamiento y por validación de cada red CNN entrenada.}
+        \label{tif154155156}
+      \end{center}
+\end{figure}
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Evolución de perdida entrenando cnn Multires-CNN Modificada.]{
+            \includegraphics[width=0.95\textwidth]{tifs/tif157.png}
+            \label{tif157}}
+        \caption{Evolución de perdida por entrenamiento y por validación de cada red CNN entrenada.}
+        \label{tif157}
+      \end{center}
+\end{figure}
 
 
 \section{CONCLUSIONES Y TRABAJO FUTURO}

@@ -1,164 +1,172 @@
 \babel@toc {spanish}{}
-\contentsline {figure}{\numberline {1}{\ignorespaces a) Imagen Original, b) Imagen original con ruido periódico y c) imagen original con ruido cuasi/periódico.}}{9}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{9}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{9}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{9}{}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Taxonomía de las técnicas de adquisición 3D\cite {Rocc:Cign}.}}{15}{}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Clasificación de las técnicas de adquisición óptica\cite {Rocc:Cign}.}}{16}{}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Sistema básico de perfilometría de proyección de franjas.}}{17}{}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Diferentes patrones de barras usados en perfilometría de proyección franjas.}}{17}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{17}{}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Trayectoria óptica de la perfilometría de medición de fase en el entorno emulado.}}{21}{}%
-\contentsline {figure}{\numberline {7}{\ignorespaces El árbol principal de nodos de composición de este sistema \textit {Blender}.}}{22}{}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Modelos del sitio \textit {TurboSquid}.}}{22}{}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Conjunto de imágenes obtenidos por escena: a), b), c) proyección de franjas con objeto y deslizamiento de fase de $2\pi /3$, d), e), f) proyección de franjas de referencia y deslizamiento de fase de $2\pi /3$, g) Groundtruth, h) Mascara con región de interés.}}{23}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{23}{}%
-\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{23}{}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Mapas de fase objeto y de referencia.}}{24}{}%
+\contentsline {figure}{\numberline {1}{\ignorespaces a) Imagen Original, b) Imagen original con ruido periódico y c) imagen original con ruido cuasi/periódico.}}{10}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{10}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{10}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{10}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Taxonomía de las técnicas de adquisición 3D\cite {Rocc:Cign}.}}{16}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Clasificación de las técnicas de adquisición óptica\cite {Rocc:Cign}.}}{17}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Sistema básico de perfilometría de proyección de franjas.}}{18}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Diferentes patrones de barras usados en perfilometría de proyección franjas.}}{18}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{18}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{18}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{18}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Trayectoria óptica de la perfilometría de medición de fase en el entorno emulado.}}{22}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces El árbol principal de nodos de composición de este sistema \textit {Blender}.}}{23}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Modelos del sitio \textit {TurboSquid}.}}{23}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Conjunto de imágenes obtenidos por escena: a), b), c) proyección de franjas con objeto y deslizamiento de fase de $2\pi /3$, d), e), f) proyección de franjas de referencia y deslizamiento de fase de $2\pi /3$, g) Groundtruth, h) Mascara con región de interés.}}{24}{}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}{}%
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}{}%
-\contentsline {figure}{\numberline {11}{\ignorespaces RepresentaciÓn 3D de mapas de fase desenvueltos de objeto y de referencia.}}{25}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto}}}{25}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Plano de referencia}}}{25}{}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Mapa de fase absoluta obtenida mediante la resta de mapa de fase de objeto y de plano de referencia. Se aprecia el ruido cuasi periódico que afecta la reconstrucción 3D del objeto.}}{25}{}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Filtro de umbral adaptativo.}}{27}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen en dominio de frecuencia con ruido cuasi/periódico visible.}}}{27}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Frecuencias no deseadas resaltadas mediante aplicación de contraste a imagen, excluyendo región central.}}}{27}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen en dominio de frecuencia después de aplicar filtro de umbral adaptativo.}}}{27}{}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Pasos para aplicar filtro adaptable y filtro de suavizado.}}{28}{}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Imagen en dominio de frecuencia con ruido de cuasi/periódico visibles.}}{29}{}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Kernel Laplaciano de $5 \times 5$ usado para resaltar regiones con ruido cuasi/periódico.}}{30}{}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Imagen en dominio de frecuencia con ruido cuasi/periódico resaltado mediante aplicación de convolucion con kernel Laplaciano de $5 \times 5$.}}{30}{}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Ajuste de contraste para resaltar regiones con ruido cuasi/periódico.}}{31}{}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Imagen que muestra las regiones identificadas con ruido cuasi/periódico en el dominio de la frecuencia.}}{32}{}%
-\contentsline {figure}{\numberline {20}{\ignorespaces a) $1\times 7$ horizontal kernel. b) $1\times 7$ vertical kernel.\cite {Gonz:Rich}}}{33}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{33}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{33}{}%
-\contentsline {figure}{\numberline {21}{\ignorespaces a) Imagen contaminada antes de filtrado. b) Imagen contaminada después de filtrado}}{33}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{33}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{33}{}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Arquitectura propuesta de red neuronal convolucional profunda.}}{35}{}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Conjunto de imágenes generados para creación de base de datos.}}{38}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{38}{}%
-\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {}}}{38}{}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Reconstrucción de objeto 3D por etapas en visualización 2D.}}{39}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Superficie de objeto original.}}}{39}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Mascara de región de interés.}}}{39}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 2D usando PSP.}}}{39}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Reconstrucción 2D usando PSP y filtro adaptativo.}}}{39}{}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Reconstrucción de objeto 3D.}}{40}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D usando PSP.}}}{40}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D usando PSP y Filtro Adaptativo.}}}{40}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 3D de Objeto Original.}}}{40}{}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Una vista cercana al ruido cuasi/periódico tratado con el filtro adapatativo desarrollado mas filtro de suavizado.}}{41}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{24}{}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{24}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Mapas de fase objeto y de referencia.}}{25}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{25}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{25}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces RepresentaciÓn 3D de mapas de fase desenvueltos de objeto y de referencia.}}{26}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto}}}{26}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Plano de referencia}}}{26}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Mapa de fase absoluta obtenida mediante la resta de mapa de fase de objeto y de plano de referencia. Se aprecia el ruido cuasi periódico que afecta la reconstrucción 3D del objeto.}}{26}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Filtro de umbral adaptativo.}}{28}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen en dominio de frecuencia con ruido cuasi/periódico visible.}}}{28}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Frecuencias no deseadas resaltadas mediante aplicación de contraste a imagen, excluyendo región central.}}}{28}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen en dominio de frecuencia después de aplicar filtro de umbral adaptativo.}}}{28}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Pasos para aplicar filtro adaptable y filtro de suavizado.}}{29}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Imagen en dominio de frecuencia con ruido de cuasi/periódico visibles.}}{30}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Kernel Laplaciano de $5 \times 5$ usado para resaltar regiones con ruido cuasi/periódico.}}{31}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Imagen en dominio de frecuencia con ruido cuasi/periódico resaltado mediante aplicación de convolucion con kernel Laplaciano de $5 \times 5$.}}{31}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Ajuste de contraste para resaltar regiones con ruido cuasi/periódico.}}{32}{}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Imagen que muestra las regiones identificadas con ruido cuasi/periódico en el dominio de la frecuencia.}}{33}{}%
+\contentsline {figure}{\numberline {20}{\ignorespaces a) $1\times 7$ horizontal kernel. b) $1\times 7$ vertical kernel.\cite {Gonz:Rich}}}{34}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{34}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{34}{}%
+\contentsline {figure}{\numberline {21}{\ignorespaces a) Imagen contaminada antes de filtrado. b) Imagen contaminada después de filtrado}}{34}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{34}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{34}{}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Arquitectura propuesta de red neuronal convolucional profunda.}}{36}{}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Conjunto de imágenes generados para creación de base de datos.}}{39}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{39}{}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {}}}{39}{}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Reconstrucción de objeto 3D por etapas en visualización 2D.}}{40}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Superficie de objeto original.}}}{40}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Mascara de región de interés.}}}{40}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 2D usando PSP.}}}{40}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Reconstrucción 2D usando PSP y filtro adaptativo.}}}{40}{}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Reconstrucción de objeto 3D.}}{41}{}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D usando PSP.}}}{41}{}%
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D usando PSP y Filtro Adaptativo.}}}{41}{}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Análisis de perfil de objeto 3D reconstruido antes y después de aplicar filtro adaptativo desarrollado y suavizado desarrollado.}}{41}{}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Imágenes de base de datos generada para entrenamiento de Red Neuronal Convolucional (CNN).}}{43}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen con ruido.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen filtrada.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen con ruido.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Imagen filtrada.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Imagen con ruido.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Imagen filtrada.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Imagen con ruido.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Imagen filtrada.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Imagen con ruido.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {Imagen filtrada.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(k)}{\ignorespaces {Imagen con ruido.}}}{43}{}%
-\contentsline {subfigure}{\numberline {(l)}{\ignorespaces {Imagen filtrada.}}}{43}{}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Evolución de la perdida de validación(\textbf {Loss Val}).}}{43}{}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Vista cercana del ruido de Moire procesado con la red neuronal convolucional desarrollada (Multiresolution CNN Modified).}}{44}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto}}}{44}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Plano de referencia}}}{44}{}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Reconstrucción de objeto 3D.}}{45}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D usando PSP.}}}{45}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D usando PSP y Multiresolution-CNN Modified.}}}{45}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 3D de Objeto Original.}}}{45}{}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Análisis de perfil de objeto 3D reconstruido antes y después de pre-procesamiento con Multiresolution-CNN Modified.}}{45}{}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Evolución de perdida de los modelos entrenados seleccionados para comparación con el modelo propuesto.}}{48}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento.}}}{48}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por validación.}}}{48}{}%
-\contentsline {figure}{\numberline {34}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos entrenados seleccionados para comparación con el modelo propuesto.}}{49}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo U-Net\cite {Ronn:Fisc}.}}}{49}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo FCN32s\cite {Long:Shel}.}}}{49}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN\cite {Sun:Yu}.}}}{49}{}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Evolución de perdida del modelo propuesto.}}{50}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN Modified.}}}{50}{}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Representación 2D de objetos 3D obtenidos con diferentes arquitecturas de CNN y representación 2D original con ruido.}}{51}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{51}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{51}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{51}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{51}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{51}{}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Reconstrucción de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{52}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 3D de Objeto Original.}}}{41}{}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Una vista cercana al ruido cuasi/periódico tratado con el filtro adapatativo desarrollado mas filtro de suavizado.}}{42}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D usando PSP.}}}{42}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D usando PSP y Filtro Adaptativo.}}}{42}{}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Análisis de perfil de objeto 3D reconstruido antes y después de aplicar filtro adaptativo desarrollado y suavizado desarrollado.}}{42}{}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Imágenes de base de datos generada para entrenamiento de Red Neuronal Convolucional (CNN).}}{44}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen con ruido.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen filtrada.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen con ruido.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Imagen filtrada.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Imagen con ruido.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Imagen filtrada.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Imagen con ruido.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Imagen filtrada.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Imagen con ruido.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {Imagen filtrada.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(k)}{\ignorespaces {Imagen con ruido.}}}{44}{}%
+\contentsline {subfigure}{\numberline {(l)}{\ignorespaces {Imagen filtrada.}}}{44}{}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Evolución de la perdida de validación(\textbf {Loss Val}).}}{44}{}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Vista cercana del ruido de Moire procesado con la red neuronal convolucional desarrollada (Multiresolution CNN Modified).}}{45}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto}}}{45}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Plano de referencia}}}{45}{}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Reconstrucción de objeto 3D.}}{46}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D usando PSP.}}}{46}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D usando PSP y Multiresolution-CNN Modified.}}}{46}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 3D de Objeto Original.}}}{46}{}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Análisis de perfil de objeto 3D reconstruido antes y después de pre-procesamiento con Multiresolution-CNN Modified.}}{46}{}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Evolución de perdida de los modelos entrenados seleccionados para comparación con el modelo propuesto.}}{49}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento.}}}{49}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por validación.}}}{49}{}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos entrenados seleccionados para comparación con el modelo propuesto.}}{50}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo U-Net\cite {Ronn:Fisc}.}}}{50}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo FCN32s\cite {Long:Shel}.}}}{50}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN\cite {Sun:Yu}.}}}{50}{}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Evolución de perdida del modelo propuesto.}}{51}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN Modified.}}}{51}{}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Representación 2D de objetos 3D obtenidos con diferentes arquitecturas de CNN y representación 2D original con ruido.}}{52}{}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{52}{}%
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{52}{}%
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{52}{}%
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{52}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{52}{}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Representación 2D de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{53}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{52}{}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Reconstrucción de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{53}{}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{53}{}%
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{53}{}%
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{53}{}%
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{53}{}%
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{53}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D original.}}}{53}{}%
-\contentsline {figure}{\numberline {39}{\ignorespaces Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}}{54}{}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Reconstrucciones de objeto 3D obtenido con diferentes arquitecturas de CNN, objeto 3D original con ruido y objeto 3D original.}}{55}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{55}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{55}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{55}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{55}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{55}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D Original.}}}{55}{}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Evolución de perdida por entrenamiento de modelos entrenados y propuesto.}}{57}{}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Evolución de perdida por validación de modelos entrenados y propuesto.}}{57}{}%
-\contentsline {figure}{\numberline {43}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}}{58}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo UNET.}}}{58}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo FCN32s.}}}{58}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN.}}}{58}{}%
-\contentsline {figure}{\numberline {44}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}}{59}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN Modified.}}}{59}{}%
-\contentsline {figure}{\numberline {45}{\ignorespaces Representación 2D de objetos 3D obtenidos con diferentes arquitecturas de CNN y representación 2D original con ruido.}}{60}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET usando GPU GTX 1070.}}}{60}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s usando GPU GTX 1070.}}}{60}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN usando GPU GTX 1070.}}}{60}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified usando GPU GTX 1070.}}}{60}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{60}{}%
-\contentsline {figure}{\numberline {46}{\ignorespaces Reconstrucción de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{61}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{61}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{61}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{61}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{61}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{61}{}%
-\contentsline {figure}{\numberline {47}{\ignorespaces Representación 2D de objeto 3D obtenido con diferentes modelos de CNN y objeto original reconstruido con PSP.}}{62}{}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Representación 2D de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{54}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{54}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{54}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{54}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{54}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{54}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D original.}}}{54}{}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}}{55}{}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Reconstrucciones de objeto 3D obtenido con diferentes arquitecturas de CNN, objeto 3D original con ruido y objeto 3D original.}}{56}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{56}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{56}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{56}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{56}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{56}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D Original.}}}{56}{}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Evolución de perdida por entrenamiento de modelos entrenados y propuesto.}}{58}{}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Evolución de perdida por validación de modelos entrenados y propuesto.}}{58}{}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}}{59}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo UNET.}}}{59}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo FCN32s.}}}{59}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN.}}}{59}{}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Evolución de perdida de entrenamiento y validación de los modelos CNN entrenados para comparación con modelo propuesto.}}{60}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida por entrenamiento vs validación de modelo Multiresolution-CNN Modified.}}}{60}{}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Representación 2D de objetos 3D obtenidos con diferentes arquitecturas de CNN y representación 2D original con ruido.}}{61}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET usando GPU GTX 1070.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s usando GPU GTX 1070.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN usando GPU GTX 1070.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified usando GPU GTX 1070.}}}{61}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{61}{}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Reconstrucción de objeto 3D obtenido con diferentes arquitecturas de CNN y objeto original reconstruido con PSP.}}{62}{}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{62}{}%
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{62}{}%
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{62}{}%
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{62}{}%
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{62}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D original.}}}{62}{}%
-\contentsline {figure}{\numberline {48}{\ignorespaces Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}}{63}{}%
-\contentsline {figure}{\numberline {49}{\ignorespaces Reconstrucciones de objeto 3D obtenido con diferentes arquitecturas de CNN, objeto 3D original con ruido y objeto 3D original.}}{64}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{64}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{64}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{64}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{64}{}%
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{64}{}%
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D Original.}}}{64}{}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Representación 2D de objeto 3D obtenido con diferentes modelos de CNN y objeto original reconstruido con PSP.}}{63}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{63}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{63}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{63}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{63}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico obtenido con PSP.}}}{63}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D original.}}}{63}{}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Análisis de perfil antes y después de procesamiento con redes entrenadas seleccionadas.}}{64}{}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Reconstrucciones de objeto 3D obtenido con diferentes arquitecturas de CNN, objeto 3D original con ruido y objeto 3D original.}}{65}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objeto 3D obtenido con UNET.}}}{65}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objeto 3D obtenido con FCN32s.}}}{65}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN.}}}{65}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Objeto 3D obtenido con Multiresolution-CNN Modified.}}}{65}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objeto 3D original con ruido cuasi/periódico.}}}{65}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objeto 3D Original.}}}{65}{}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Evolución de la perdida por entrenamiento(\textbf {Train Loss)}.}}{67}{}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Evolución de la perdida por validación(\textbf {Val Loss)}.}}{67}{}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Evolución de perdida por entrenamiento y por validación de cada red CNN entrenada.}}{68}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida entrenando cnn U-Net.}}}{68}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Evolución de perdida entrenando cnn FCN32s.}}}{68}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida entrenando cnn Multires-CNN.}}}{68}{}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Evolución de perdida por entrenamiento y por validación de cada red CNN entrenada.}}{69}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida entrenando cnn Multires-CNN Modificada.}}}{69}{}%

@@ -1,35 +1,35 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}INTRODUCCIÓN}{6}{}%
-\contentsline {subsection}{\numberline {1.1}Visión por computadora}{6}{}%
-\contentsline {subsection}{\numberline {1.2}Redes neuronales convolucionales}{7}{}%
-\contentsline {subsection}{\numberline {1.3}Trabajos relacionados}{7}{}%
-\contentsline {subsection}{\numberline {1.4}Estado del arte}{11}{}%
-\contentsline {subsection}{\numberline {1.5}Definición del problema}{13}{}%
-\contentsline {subsection}{\numberline {1.6}Justificación}{13}{}%
-\contentsline {subsection}{\numberline {1.7}Hipótesis}{14}{}%
-\contentsline {subsection}{\numberline {1.8}Objetivos}{14}{}%
-\contentsline {subsubsection}{\numberline {1.8.1}Objetivo general}{14}{}%
-\contentsline {subsubsection}{\numberline {1.8.2}Objetivos específicos}{14}{}%
-\contentsline {subsubsection}{\numberline {1.8.3}Alcances}{14}{}%
-\contentsline {subsubsection}{\numberline {1.8.4}Limitaciones}{15}{}%
-\contentsline {section}{\numberline {2}REVISIÓN DE LITERATURA}{15}{}%
-\contentsline {subsection}{\numberline {2.1}Principio de perfilometría de proyección de franjas y desenvolvimiento de fase}{16}{}%
-\contentsline {subsection}{\numberline {2.2}Patrón de Moire}{19}{}%
-\contentsline {section}{\numberline {3}METODOLOGÍA}{20}{}%
-\contentsline {subsection}{\numberline {3.1}Perfilometría por cambio de fase}{20}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}Algoritmo de 3 pasos (three-step)}{20}{}%
-\contentsline {subsection}{\numberline {3.2}Adquisición de imágenes}{20}{}%
-\contentsline {subsection}{\numberline {3.3}Extracción de fase y desenvolvimiento de fase}{23}{}%
-\contentsline {subsection}{\numberline {3.4}Filtrado de imágenes}{25}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Filtro de umbral adaptable en dominio de la frecuencia y suavizado en dominio espacial}{26}{}%
-\contentsline {subsection}{\numberline {3.5}Deep CNN}{34}{}%
-\contentsline {section}{\numberline {4}RESULTADOS}{36}{}%
-\contentsline {subsection}{\numberline {4.1}Base de datos de imágenes}{37}{}%
-\contentsline {subsection}{\numberline {4.2}Reconstrucciones 3D con algoritmo desarrollado}{39}{}%
-\contentsline {subsection}{\numberline {4.3}Filtro adaptativo y filtro de suavizado visto de cerca}{40}{}%
-\contentsline {subsection}{\numberline {4.4}Entrenamiento de Red Neuronal Convolucional Profunda (Deep CNN)}{42}{}%
-\contentsline {subsection}{\numberline {4.5}Comparación con otras arquitecturas}{45}{}%
-\contentsline {section}{\numberline {5}CONCLUSIONES Y TRABAJO FUTURO}{64}{}%
-\contentsline {subsection}{\numberline {5.1}Conclusiones}{64}{}%
-\contentsline {subsection}{\numberline {5.2}Trabajo Futuro}{66}{}%
-\contentsline {section}{\numberline {6}Anexos}{70}{}%
+\contentsline {section}{\numberline {1}INTRODUCCIÓN}{7}{}%
+\contentsline {subsection}{\numberline {1.1}Visión por computadora}{7}{}%
+\contentsline {subsection}{\numberline {1.2}Redes neuronales convolucionales}{8}{}%
+\contentsline {subsection}{\numberline {1.3}Trabajos relacionados}{8}{}%
+\contentsline {subsection}{\numberline {1.4}Estado del arte}{12}{}%
+\contentsline {subsection}{\numberline {1.5}Definición del problema}{14}{}%
+\contentsline {subsection}{\numberline {1.6}Justificación}{14}{}%
+\contentsline {subsection}{\numberline {1.7}Hipótesis}{15}{}%
+\contentsline {subsection}{\numberline {1.8}Objetivos}{15}{}%
+\contentsline {subsubsection}{\numberline {1.8.1}Objetivo general}{15}{}%
+\contentsline {subsubsection}{\numberline {1.8.2}Objetivos específicos}{15}{}%
+\contentsline {subsubsection}{\numberline {1.8.3}Alcances}{15}{}%
+\contentsline {subsubsection}{\numberline {1.8.4}Limitaciones}{16}{}%
+\contentsline {section}{\numberline {2}REVISIÓN DE LITERATURA}{16}{}%
+\contentsline {subsection}{\numberline {2.1}Principio de perfilometría de proyección de franjas y desenvolvimiento de fase}{17}{}%
+\contentsline {subsection}{\numberline {2.2}Patrón de Moire}{20}{}%
+\contentsline {section}{\numberline {3}METODOLOGÍA}{21}{}%
+\contentsline {subsection}{\numberline {3.1}Perfilometría por cambio de fase}{21}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Algoritmo de 3 pasos (three-step)}{21}{}%
+\contentsline {subsection}{\numberline {3.2}Adquisición de imágenes}{21}{}%
+\contentsline {subsection}{\numberline {3.3}Extracción de fase y desenvolvimiento de fase}{24}{}%
+\contentsline {subsection}{\numberline {3.4}Filtrado de imágenes}{26}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Filtro de umbral adaptable en dominio de la frecuencia y suavizado en dominio espacial}{27}{}%
+\contentsline {subsection}{\numberline {3.5}Deep CNN}{35}{}%
+\contentsline {section}{\numberline {4}RESULTADOS}{37}{}%
+\contentsline {subsection}{\numberline {4.1}Base de datos de imágenes}{38}{}%
+\contentsline {subsection}{\numberline {4.2}Reconstrucciones 3D con algoritmo desarrollado}{40}{}%
+\contentsline {subsection}{\numberline {4.3}Filtro adaptativo y filtro de suavizado visto de cerca}{41}{}%
+\contentsline {subsection}{\numberline {4.4}Entrenamiento de Red Neuronal Convolucional Profunda (Deep CNN)}{43}{}%
+\contentsline {subsection}{\numberline {4.5}Comparación con otras arquitecturas}{46}{}%
+\contentsline {section}{\numberline {5}CONCLUSIONES Y TRABAJO FUTURO}{69}{}%
+\contentsline {subsection}{\numberline {5.1}Conclusiones}{69}{}%
+\contentsline {subsection}{\numberline {5.2}Trabajo Futuro}{70}{}%
+\contentsline {section}{\numberline {6}Anexos}{74}{}%
