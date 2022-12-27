@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.15)  25 DEC 2022 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.15)  27 DEC 2022 15:38
 entering extended mode
 **./TesisByOAEB.tex
 (TesisByOAEB.tex
@@ -2600,24 +2600,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1518--1518
 [65 <./tifs/tif148.png (PNG copy)> <./tifs/tif149.png (PNG copy)> <./tifs/tif15
 0.png (PNG copy)> <./tifs/tif151.png (PNG copy)> <./tifs/tif146.png (PNG copy)>
  <./tifs/tif147.png (PNG copy)>]
-
-LaTeX Warning: Reference `' on page 66 undefined on input line 1526.
-
-
-LaTeX Warning: Reference `' on page 66 undefined on input line 1526.
-
-
-LaTeX Warning: Reference `' on page 66 undefined on input line 1526.
-
-
-LaTeX Warning: Reference `' on page 66 undefined on input line 1526.
-
 <tifs/tif152.png, id=426, 832.5504pt x 380.3811pt>
 File: tifs/tif152.png Graphic file (type png)
 <use tifs/tif152.png>
 Package pdftex.def Info: tifs/tif152.png  used on input line 1530.
 (pdftex.def)             Requested size: 345.0pt x 157.62885pt.
-[66]
+ [66]
 <tifs/tif153.png, id=430, 832.3095pt x 380.3811pt>
 File: tifs/tif153.png Graphic file (type png)
 <use tifs/tif153.png>
@@ -2648,79 +2636,301 @@ File: tifs/tif157.png Graphic file (type png)
 <use tifs/tif157.png>
 Package pdftex.def Info: tifs/tif157.png  used on input line 1562.
 (pdftex.def)             Requested size: 327.74895pt x 155.09973pt.
- [69 <./tifs/tif157.png>] [70] [71]
+
+Overfull \hbox (8.1008pt too wide) in paragraph at lines 1575--1576
+[]|\OT1/jkp/m/n/10 MSE(Perfil)| 
+ []
+
+
+Overfull \hbox (2.07793pt too wide) in paragraph at lines 1577--1577
+[]|\OT1/jkp/b/n/10 Multiresolution
+ []
+
+
+Overfull \hbox (2.01797pt too wide) in paragraph at lines 1580--1580
+[]|\OT1/jkp/m/n/10 Multiresolution-
+ []
+
+<tifs/tif159.png, id=447, 610.28pt x 342.27875pt>
+File: tifs/tif159.png Graphic file (type png)
+<use tifs/tif159.png>
+Package pdftex.def Info: tifs/tif159.png  used on input line 1593.
+(pdftex.def)             Requested size: 137.9979pt x 77.39587pt.
+<tifs/tif160.png, id=448, 610.28pt x 342.27875pt>
+File: tifs/tif160.png Graphic file (type png)
+<use tifs/tif160.png>
+Package pdftex.def Info: tifs/tif160.png  used on input line 1596.
+(pdftex.def)             Requested size: 137.9979pt x 77.39587pt.
+<tifs/tif161.png, id=449, 610.28pt x 342.27875pt>
+File: tifs/tif161.png Graphic file (type png)
+<use tifs/tif161.png>
+Package pdftex.def Info: tifs/tif161.png  used on input line 1599.
+(pdftex.def)             Requested size: 137.9979pt x 77.39587pt.
+<tifs/tif162.png, id=450, 610.28pt x 342.27875pt>
+File: tifs/tif162.png Graphic file (type png)
+<use tifs/tif162.png>
+Package pdftex.def Info: tifs/tif162.png  used on input line 1602.
+(pdftex.def)             Requested size: 137.9979pt x 77.39587pt.
+<tifs/tif158.png, id=451, 610.28pt x 342.27875pt>
+File: tifs/tif158.png Graphic file (type png)
+<use tifs/tif158.png>
+Package pdftex.def Info: tifs/tif158.png  used on input line 1605.
+(pdftex.def)             Requested size: 137.9979pt x 77.39587pt.
+<tifs/tif163.png, id=452, 757.83125pt x 392.46625pt>
+File: tifs/tif163.png Graphic file (type png)
+<use tifs/tif163.png>
+Package pdftex.def Info: tifs/tif163.png  used on input line 1608.
+(pdftex.def)             Requested size: 137.9979pt x 71.4613pt.
+[69 <./tifs/tif157.png>]
+
+LaTeX Warning: Reference `' on page 70 undefined on input line 1614.
+
+<tifs/tif165.png, id=457, 362.3136pt x 289.5618pt>
+File: tifs/tif165.png Graphic file (type png)
+<use tifs/tif165.png>
+Package pdftex.def Info: tifs/tif165.png  used on input line 1620.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif166.png, id=458, 362.3136pt x 289.5618pt>
+File: tifs/tif166.png Graphic file (type png)
+<use tifs/tif166.png>
+Package pdftex.def Info: tifs/tif166.png  used on input line 1623.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif167.png, id=459, 362.3136pt x 289.5618pt>
+File: tifs/tif167.png Graphic file (type png)
+<use tifs/tif167.png>
+Package pdftex.def Info: tifs/tif167.png  used on input line 1626.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif168.png, id=460, 362.3136pt x 289.5618pt>
+File: tifs/tif168.png Graphic file (type png)
+<use tifs/tif168.png>
+Package pdftex.def Info: tifs/tif168.png  used on input line 1629.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif169.png, id=461, 362.3136pt x 289.5618pt>
+File: tifs/tif169.png Graphic file (type png)
+<use tifs/tif169.png>
+Package pdftex.def Info: tifs/tif169.png  used on input line 1632.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+<tifs/tif170.png, id=462, 362.3136pt x 289.5618pt>
+File: tifs/tif170.png Graphic file (type png)
+<use tifs/tif170.png>
+Package pdftex.def Info: tifs/tif170.png  used on input line 1635.
+(pdftex.def)             Requested size: 137.9979pt x 110.28647pt.
+[70 <./tifs/tif159.png> <./tifs/tif160.png> <./tifs/tif161.png> <./tifs/tif162.
+png> <./tifs/tif158.png> <./tifs/tif163.png>]
+<tifs/tif172.png, id=472, 442.2924pt x 519.3804pt>
+File: tifs/tif172.png Graphic file (type png)
+<use tifs/tif172.png>
+Package pdftex.def Info: tifs/tif172.png  used on input line 1650.
+(pdftex.def)             Requested size: 103.50105pt x 121.53928pt.
+<tifs/tif171.png, id=473, 442.2924pt x 519.3804pt>
+File: tifs/tif171.png Graphic file (type png)
+<use tifs/tif171.png>
+Package pdftex.def Info: tifs/tif171.png  used on input line 1653.
+(pdftex.def)             Requested size: 103.50105pt x 121.53928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+[]\OT1/jkp/m/n/8 (b) Re-cons-truc-ci[]on 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\OT1/jkp/m/n/8 de ob-je-to con mo-de-lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif173.png, id=474, 442.2924pt x 522.753pt>
+File: tifs/tif173.png Graphic file (type png)
+<use tifs/tif173.png>
+Package pdftex.def Info: tifs/tif173.png  used on input line 1656.
+(pdftex.def)             Requested size: 103.50105pt x 122.32849pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]\OT1/jkp/m/n/8 (c) Re-cons-truc-ci[]on 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+\OT1/jkp/m/n/8 de ob-je-to con mo-de-lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif175.png, id=475, 443.256pt x 516.4896pt>
+File: tifs/tif175.png Graphic file (type png)
+<use tifs/tif175.png>
+Package pdftex.def Info: tifs/tif175.png  used on input line 1659.
+(pdftex.def)             Requested size: 103.50105pt x 120.59485pt.
+<tifs/tif174.png, id=476, 443.256pt x 516.4896pt>
+File: tifs/tif174.png Graphic file (type png)
+<use tifs/tif174.png>
+Package pdftex.def Info: tifs/tif174.png  used on input line 1662.
+(pdftex.def)             Requested size: 103.50105pt x 120.59485pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1662
+[]\OT1/jkp/m/n/8 (e) Re-cons-truc-ci[]on 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1662
+\OT1/jkp/m/n/8 de ob-je-to con mo-de-lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1662
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif176.png, id=477, 443.256pt x 519.8622pt>
+File: tifs/tif176.png Graphic file (type png)
+<use tifs/tif176.png>
+Package pdftex.def Info: tifs/tif176.png  used on input line 1665.
+(pdftex.def)             Requested size: 103.50105pt x 121.38231pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1665
+[]\OT1/jkp/m/n/8 (f) Re-cons-truc-ci[]on 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1665
+\OT1/jkp/m/n/8 de ob-je-to con mo-de-lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1665
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif178.png, id=478, 441.3288pt x 519.8622pt>
+File: tifs/tif178.png Graphic file (type png)
+<use tifs/tif178.png>
+Package pdftex.def Info: tifs/tif178.png  used on input line 1668.
+(pdftex.def)             Requested size: 103.50105pt x 121.91379pt.
+<tifs/tif177.png, id=479, 441.3288pt x 519.8622pt>
+File: tifs/tif177.png Graphic file (type png)
+<use tifs/tif177.png>
+Package pdftex.def Info: tifs/tif177.png  used on input line 1671.
+(pdftex.def)             Requested size: 103.50105pt x 121.91379pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+[]\OT1/jkp/m/n/8 (h) Re-cons-truc-ci[]on 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\OT1/jkp/m/n/8 de ob-je-to con mo-de-lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+<tifs/tif179.png, id=480, 441.3288pt x 523.2348pt>
+File: tifs/tif179.png Graphic file (type png)
+<use tifs/tif179.png>
+Package pdftex.def Info: tifs/tif179.png  used on input line 1674.
+(pdftex.def)             Requested size: 103.50105pt x 122.7047pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1674--1674
+[]\OT1/jkp/m/n/8 (i) Re-cons-truc-ci[]on 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1674--1674
+\OT1/jkp/m/n/8 de ob-je-to con mo-de-lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1674--1674
+\OT1/jkp/m/n/8 Multiresolution-CNN Mo-di-
+ []
+
+[71 <./tifs/tif165.png (PNG copy)> <./tifs/tif166.png (PNG copy)> <./tifs/tif16
+7.png (PNG copy)> <./tifs/tif168.png (PNG copy)> <./tifs/tif169.png (PNG copy)>
+ <./tifs/tif170.png (PNG copy)>] [72 <./tifs/tif172.png (PNG copy)> <./tifs/tif
+171.png (PNG copy)> <./tifs/tif173.png (PNG copy)> <./tifs/tif175.png (PNG copy
+)> <./tifs/tif174.png (PNG copy)> <./tifs/tif176.png (PNG copy)> <./tifs/tif178
+.png (PNG copy)> <./tifs/tif177.png (PNG copy)> <./tifs/tif179.png (PNG copy)>]
+[73] [74] [75]
 LaTeX Font Info:    Trying to load font information for OT1+jkptt on input line
- 1647.
+ 1763.
 
 (C:\Users\anton\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\ot1jkptt.fd
 File: ot1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for OT1/jkptt.
 )
-Underfull \hbox (badness 2772) in paragraph at lines 1656--1657
+Underfull \hbox (badness 2772) in paragraph at lines 1772--1773
 []\OT1/jkp/m/n/10 Karacan, L., Er-dem, E., & Er-dem, A.: Structure-preserving i
 ma-ge
  []
 
-[72] [73]
-Underfull \hbox (badness 3229) in paragraph at lines 1749--1750
+[76] [77]
+Underfull \hbox (badness 3229) in paragraph at lines 1865--1866
 []\OT1/jkp/m/n/10 Mart[]nez-Su[]arez, V. M., Pedraza-Ortega, J. C., Salazar-Co
 lores, S.,
  []
 
 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocolo/Di
-ploma Paper-1.pdf, id=466, 845.07718pt x 597.73312pt>
+ploma Paper-1.pdf, id=505, 845.07718pt x 597.73312pt>
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1754.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1870.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1754.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf  used on input line 1870.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocolo/Di
-ploma Paper-1.pdf, id=469, page=1, 845.07718pt x 597.73312pt>
+ploma Paper-1.pdf, id=508, page=1, 845.07718pt x 597.73312pt>
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1754.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1870.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1754.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1870.
 (pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
-[74]
+[78]
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1754.
-(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
-File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
-lo/Diploma Paper-1.pdf Graphic file (type pdf)
-<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
-o/Diploma Paper-1.pdf, page 1>
-Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1754.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1870.
 (pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
 File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf Graphic file (type pdf)
 <use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
 o/Diploma Paper-1.pdf, page 1>
 Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
-d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1754.
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1870.
 (pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
- [75 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+File: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
+lo/Diploma Paper-1.pdf Graphic file (type pdf)
+<use C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtocol
+o/Diploma Paper-1.pdf, page 1>
+Package pdftex.def Info: C:/Users/anton/Documents/MCIA/documents/Docus_Solicitu
+d_RegistrodeProtocolo/Diploma Paper-1.pdf , page1 used on input line 1870.
+(pdftex.def)             Requested size: 614.34804pt x 434.53566pt.
+ [79 <C:/Users/anton/Documents/MCIA/documents/Docus_Solicitud_RegistrodeProtoco
 lo/Diploma Paper-1.pdf>] (TesisByOAEB.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -2733,10 +2943,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13118 strings out of 478864
- 243953 string characters out of 2848660
- 524280 words of memory out of 3000000
- 30702 multiletter control sequences out of 15000+600000
+ 13311 strings out of 478864
+ 247220 string characters out of 2848660
+ 525971 words of memory out of 3000000
+ 30874 multiletter control sequences out of 15000+600000
  429963 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,17n,81p,2250b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2758,9 +2968,9 @@ ers/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpmn8a.pfb>
 .pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/j
 kpsy.pfb><C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfon
 ts/jkpttmn8a.pfb>
-Output written on TesisByOAEB.pdf (75 pages, 19906365 bytes).
+Output written on TesisByOAEB.pdf (79 pages, 22612078 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
+ 629 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 711 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 816 words of extra memory for PDF output out of 10000 (max. 10000000)
 

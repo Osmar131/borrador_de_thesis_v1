@@ -170,3 +170,27 @@
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Evolución de perdida entrenando cnn Multires-CNN.}}}{68}{}%
 \contentsline {figure}{\numberline {53}{\ignorespaces Evolución de perdida por entrenamiento y por validación de cada red CNN entrenada.}}{69}{}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Evolución de perdida entrenando cnn Multires-CNN Modificada.}}}{69}{}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Vista cercana de objetos 3D después de ser procesado con múltiples CNN's y objeto con ruido cuasi/periódico.}}{70}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Representación 2D de objeto filtrada usando cnn U-Net.}}}{70}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Representación 2D de objeto filtrada usando cnn FCN32s.}}}{70}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Representación 2D de objeto filtrada usando cnn Multires-CNN.}}}{70}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Representación 2D de objeto filtrada usando cnn Multires-CNN Modificada.}}}{70}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Representación 2D de objeto con ruido.}}}{70}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Representación 2D de objeto Original.}}}{70}{}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Vista cercana de objetos 3D después de ser procesado con múltiples CNN's y objeto con ruido cuasi/periódico.}}{71}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D de objeto filtrado con modelo U-Net.}}}{71}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D de objeto filtrado con modelo FCN32s.}}}{71}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 3D de objeto filtrado con modelo Multires-CNN.}}}{71}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Reconstrucción 3D de objeto filtrado con modelo Multires-CNN Modificada.}}}{71}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Reconstrucción 3D de objeto con ruido.}}}{71}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Reconstrucción 3D de objeto Original.}}}{71}{}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Reconstrucción de objetos reales filtrados con modelo entrenado.}}{72}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Reconstrucción 3D de objeto usando PSP.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified con textura.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Reconstrucción 3D de objeto usando PSP.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified con textura.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Reconstrucción 3D de objeto usando PSP.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified.}}}{72}{}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified con textura.}}}{72}{}%

@@ -1488,7 +1488,7 @@ Los mejores parámetros se usaron obtenidos de los autores originales de cada ar
 \hline
 Parámetro & U-Net & FCN32s & Multires-CNN & Multires-CNN Modified\\	
 \hline
-Tamaño de lote (batch-size) & 4    & 8 & 8 & 8 \\
+Tamaño de lote (batch-size) & 4    & 8 & 8 & 32 \\
 \hline
 Pesos iniciales (weights initials) & Aleatorio Gaussiano (Mean=0.0, std=0.01)  
 								   & Pre-trained VGGNet) 
@@ -1523,7 +1523,7 @@ Cantidad de imágenes (Test)  & 69  & 69 & 69 & 69 \\
 \end{center}
 \end{table}
 
-La evolución por entrenamiento y validación usando esto parámetros son mostrados en las graficas \ref{} y \ref{} mostrados en conjunto para los 4 modelos CNN entrenados, mientras que las gráficas de las figuras \ref{} y \ref{} muestran la evolución por cada modelo CNN entrenado.
+La evolución por entrenamiento y validación usando esto parámetros son mostrados en las gráficas \ref{tif152} y \ref{tif153} mostrados en conjunto para los 4 modelos CNN entrenados, mientras que las gráficas de las figuras \ref{tif154155156} y \ref{tif157} muestran la evolución por cada modelo CNN entrenado.
 
 \begin{figure}[H]
 	\centering
@@ -1565,6 +1565,120 @@ La evolución por entrenamiento y validación usando esto parámetros son mostra
       \end{center}
 \end{figure}
 
+Las métricas cuantitativas de la tabla \ref{metricasultimate} muestran un mejor desempeño logrado con el modelo de red neuronal convolucional propuesto ademas de los parámetros definidos después de una serie de pruebas.
+
+\begin{table}[H]
+\caption{Métricas obtenidas a partir de objetos 3D resultantes de inferencias de diferentes arquitecturas CNNs.}
+\begin{center}
+\begin{tabular}{p{2.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}}
+\hline\\
+CNN & PSNR & IMMSE & SSIM & MSE(Perfil) \\
+\hline\\
+\textbf{Multiresolution -CNN Modified}  & \textbf{14.4839} & \textbf{0.0356} & \textbf{0.7915} & \textbf{0.0332}\\
+UNET                & 8.4898 & 0.1416 & 0.5724 & 0.1573 \\
+FCN32s              & 14.5527 & 0.0351 & 0.7462 & 0.0331 \\
+Multiresolution-CNN & 14.3431 & 0.0368 & 0.7839 & 0.0354 \\[2pt]
+\hline
+\end{tabular}
+\label{metricasultimate}
+\end{center}
+\end{table}
+
+Los resultados visuales pueden observarse en las imágenes de la figura \ref{tif158159160161162163}, donde se puede apreciar en la parte aumentada como es atenuada exitosamente el ruido cuasi/periódico de las representaciones 2D de los objetos inferidos por los modelos CNN entrenados y el propuesto. Cabe resaltar una mayor atenuación de contaminación realizada por la arquitectura propuesta así como una conservación mayor de los detalles del objeto. 
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Representación 2D de objeto filtrada usando cnn U-Net.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif159.png}
+            \label{tif159}}
+        \subfigure[Representación 2D de objeto filtrada usando cnn FCN32s.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif160.png}
+            \label{tif160}}
+        \subfigure[Representación 2D de objeto filtrada usando cnn Multires-CNN.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif161.png}
+            \label{tif161}}
+        \subfigure[Representación 2D de objeto filtrada usando cnn Multires-CNN Modificada.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif162.png}
+            \label{tif162}}
+        \subfigure[Representación 2D de objeto con ruido.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif158.png}
+            \label{tif158}}
+        \subfigure[Representación 2D de objeto Original.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif163.png}
+            \label{tif163}}
+        \caption{Vista cercana de objetos 3D después de ser procesado con múltiples CNN's y objeto con ruido cuasi/periódico.}
+        \label{tif158159160161162163}
+      \end{center}
+\end{figure}
+
+Las reconstrucciones 3D de los objetos muestran una aproximación mas cercana al objeto original después de realizar un escalamiento de las representaciones 2D con la arquitectura de red propuesta, ademas de reconstruir los objetos mas suaves comparado con las demás reconstrucciones. Estos son mostrados en las imágenes de la figura \ref{}.
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Reconstrucción 3D de objeto filtrado con modelo U-Net.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif165.png}
+            \label{tif165}}
+        \subfigure[Reconstrucción 3D de objeto filtrado con modelo FCN32s.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif166.png}
+            \label{tif166}}
+        \subfigure[Reconstrucción 3D de objeto filtrado con modelo Multires-CNN.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif167.png}
+            \label{tif167}}
+        \subfigure[Reconstrucción 3D de objeto filtrado con modelo Multires-CNN Modificada.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif168.png}
+            \label{tif168}}
+        \subfigure[Reconstrucción 3D de objeto con ruido.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif169.png}
+            \label{tif169}}
+        \subfigure[Reconstrucción 3D de objeto Original.]{
+            \includegraphics[width=0.4\textwidth]{tifs/tif170.png}
+            \label{tif170}}
+        \caption{Vista cercana de objetos 3D después de ser procesado con múltiples CNN's y objeto con ruido cuasi/periódico.}
+        \label{tif165166167168169170}
+      \end{center}
+\end{figure}
+
+
+\subsection*{Resultados con objetos reales}
+Para probar los modelos entrenados en atenuar el ruido cuasi/periódico en imágenes obtenidas mediante perfilometría de franjas, se usaron objetos reales obtenidos mediante esta técnica. En las imágenes de la figura \ref{tif171172173174175176177178179} se puede apreciar los resultados inferidos por el modelo entrenado y la aplicación de la textura original de los objetos al resultado obtenido. 
+
+
+\begin{figure}[H]
+      \begin{center}
+        \subfigure[Reconstrucción 3D de objeto usando PSP.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif172.png}
+            \label{tif172}}
+        \subfigure[Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif171.png}
+            \label{tif171}}
+        \subfigure[Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified con textura.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif173.png}
+            \label{tif173}}
+        \subfigure[Reconstrucción 3D de objeto usando PSP.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif175.png}
+            \label{tif175}}
+        \subfigure[Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif174.png}
+            \label{tif174}}
+        \subfigure[Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified con textura.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif176.png}
+            \label{tif176}}
+        \subfigure[Reconstrucción 3D de objeto usando PSP.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif178.png}
+            \label{tif178}}
+        \subfigure[Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif177.png}
+            \label{tif177}}
+        \subfigure[Reconstrucción 3D de objeto con modelo Multiresolution-CNN Modified con textura.]{
+            \includegraphics[width=0.3\textwidth]{tifs/tif179.png}
+            \label{tif179}}
+        \caption{Reconstrucción de objetos reales filtrados con modelo entrenado.}
+        \label{tif171172173174175176177178179}
+      \end{center}
+\end{figure}
+
+
+
 
 \section{CONCLUSIONES Y TRABAJO FUTURO}
 \subsection{Conclusiones}
@@ -1582,7 +1696,9 @@ Los resultados obtenidos muestran una reconstrucción de objetos 3D mas suaves y
 En conclusión, este trabajo muestra el desarrollo e implementación de una metodología para obtener objetos 3D a partir de imágenes 2D usando un sistema emulado para la adquisición de imágenes con el método PSP de 3 pasos (3-Step), el desarrollo de un algoritmo de filtrado de ruido cuasi/periódico que realiza la operación de manera tradicional procesando la imagen en el dominio de la frecuencia y el desarrollo y entrenamiento de una red neuronal convolucional de aprendizaje profundo, consiguiendo de esta manera objetos 3D reconstruidos similares a los objetos 3D originales, usando I.A. para atenuar el ruido cuasi/periódico de forma exitosa.
 
 \subsection{Trabajo Futuro}
-Como trabajo futuro se puede mejorar la implementación de un sistema emulado digital para experimentación automatizado con el fin de obtener una cantidad importante de imágenes. 
+Como trabajo futuro se puede mejorar la implementación de un sistema emulado digital para experimentación automatizado con el fin de obtener una cantidad importante de imágenes. También probar con otro métodos ademas del usado que es de 3 pasos(3-Step). 
+
+Otra mejora podría aplicarse al mejoramiento de la iluminación para obtener objetos de manera mas rápida al establecer un estándar ademas de la colocación del objeto y simplemente aplicarlos a cada objeto. 
 
 %Ademas se puede crear las bases para establecer un sistema físico para la obtención de las imágenes mediante proyección de franjas y obtener imágenes del mundo real.
 
